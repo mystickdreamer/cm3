@@ -193,7 +193,7 @@ End
 #COMMAND
 Name        antimatter~
 Code        do_antimatter
-Position    112
+Position    107
 Log         0
 Permit	512
 End
@@ -229,20 +229,6 @@ End
 #COMMAND
 Name        arena~
 Code        do_arena
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        alter~
-Code        do_alter
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        accessories~
-Code        do_accessories
 Position    100
 Log         0
 End
@@ -354,56 +340,6 @@ Name        bestow~
 Code        do_bestow
 Position    100
 Log         0
-End
-
-#COMMAND
-Name        bind~
-Code        do_bind
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        brand~
-Code        do_brand
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        blink~
-Code        do_blink
-Position    110
-Log         0
-End
-
-#COMMAND
-Name        burn~
-Code        do_burn
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        blizzard~
-Code        do_blizzard
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        blast~
-Code        do_blast
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        buildwalk~
-Code        do_buildwalk
-Position    100
-Log         0
-Permit	4
 End
 
 #COMMAND
@@ -534,7 +470,7 @@ End
 #COMMAND
 Name        connect~
 Code        do_connect
-Position    100
+Position    102
 Log         0
 End
 
@@ -565,62 +501,6 @@ Code        do_city
 Position    100
 Log         1
 Permit	4
-End
-
-#COMMAND
-Name        charge~
-Code        do_funnel
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        cure~
-Code        do_cure
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        change~
-Code        do_change
-Position    107
-Log         0
-End
-
-#COMMAND
-Name        calm~
-Code        do_pacify
-Position    110
-Log         0
-End
-
-#COMMAND
-Name        cloudkill~
-Code        do_poisoncloud
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        chainlightning~
-Code        do_chainlightning
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        calllightning~
-Code        do_electrocute
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        chill~
-Code        do_chill
-Position    112
-Log         0
 End
 
 #COMMAND
@@ -753,6 +633,7 @@ Name        dispel~
 Code        do_dispel
 Position    109
 Log         0
+Permit	512
 End
 
 #COMMAND
@@ -781,41 +662,6 @@ End
 Name        date~
 Code        do_time
 Position    100
-Log         0
-End
-
-#COMMAND
-Name        dream~
-Code        do_dream
-Position    104
-Log         0
-End
-
-#COMMAND
-Name        drain~
-Code        do_drain
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        decay~
-Code        do_decay
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        detonate~
-Code        do_detonate
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        distort~
-Code        do_distort
-Position    112
 Log         0
 End
 
@@ -900,13 +746,6 @@ End
 Name        experience~
 Code        do_experience
 Position    100
-Log         0
-End
-
-#COMMAND
-Name        enchant~
-Code        do_enchant
-Position    112
 Log         0
 End
 
@@ -1025,41 +864,6 @@ End
 Name        finger~
 Code        do_whois
 Position    100
-Log         0
-End
-
-#COMMAND
-Name        funnel~
-Code        do_funnel
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        flood~
-Code        do_flood
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        flare~
-Code        do_flare
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        flamingrain~
-Code        do_flamingrain
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        frostbite~
-Code        do_frostbite
-Position    112
 Log         0
 End
 
@@ -1232,20 +1036,6 @@ Log         0
 End
 
 #COMMAND
-Name        house~
-Code        do_house
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        homebuy~
-Code        do_homebuy
-Position    100
-Log         0
-End
-
-#COMMAND
 Name        inventory~
 Code        do_inventory
 Position    100
@@ -1311,28 +1101,6 @@ Code        do_ingredient
 Position    100
 Log         1
 Permit	128
-End
-
-#COMMAND
-Name        identify~
-Code        do_identify
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        immobilize~
-Code        do_immobilize
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        invade~
-Code        do_invade
-Position    100
-Log         0
-Permit	1
 End
 
 #COMMAND
@@ -1477,13 +1245,6 @@ End
 Name        link~
 Code        do_link
 Position    100
-Log         0
-End
-
-#COMMAND
-Name        lightning~
-Code        do_lightning
-Position    112
 Log         0
 End
 
@@ -2008,42 +1769,6 @@ Log         0
 End
 
 #COMMAND
-Name        magma~
-Code        do_magma
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        manastorm~
-Code        do_manastorm
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        meteor~
-Code        do_meteor
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        mindflay~
-Code        do_mindflay
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        mobedit~
-Code        do_omedit
-Position    100
-Log         0
-Permit	4
-End
-
-#COMMAND
 Name        north~
 Code        do_north
 Position    109
@@ -2146,13 +1871,6 @@ Code        do_nochannel
 Position    100
 Log         1
 Permit	256
-End
-
-#COMMAND
-Name        nightmare~
-Code        do_nightmare
-Position    112
-Log         0
 End
 
 #COMMAND
@@ -2304,14 +2022,6 @@ Permit	64
 End
 
 #COMMAND
-Name        objedit~
-Code        do_ooedit
-Position    100
-Log         0
-Permit	4
-End
-
-#COMMAND
 Name        put~
 Code        do_put
 Position    106
@@ -2456,20 +2166,6 @@ Log         0
 End
 
 #COMMAND
-Name        purify~
-Code        do_purify
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        preserve~
-Code        do_preserve
-Position    112
-Log         0
-End
-
-#COMMAND
 Name        quaff~
 Code        do_quaff
 Position    106
@@ -2496,13 +2192,6 @@ Code        do_qbit
 Position    100
 Log         0
 Permit	2048
-End
-
-#COMMAND
-Name        quake~
-Code        do_quake
-Position    112
-Log         0
 End
 
 #COMMAND
@@ -2673,7 +2362,7 @@ End
 
 #COMMAND
 Name        rreset~
-Code        (0x558988)
+Code        do_rreset
 Position    100
 Log         3
 Permit	4
@@ -2762,56 +2451,6 @@ End
 #COMMAND
 Name        rfind~
 Code        do_rfind
-Position    100
-Log         0
-Permit	4
-End
-
-#COMMAND
-Name        rune~
-Code        do_rune
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        resurrect~
-Code        do_resurrect
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        retrieve~
-Code        do_retrieve
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        reshape~
-Code        do_reshape
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        recall~
-Code        do_recall
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        residence~
-Code        do_residence
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        roomedit~
-Code        do_oredit
 Position    100
 Log         0
 Permit	4
@@ -3214,7 +2853,7 @@ End
 #COMMAND
 Name        steam~
 Code        do_steam
-Position    112
+Position    108
 Log         0
 End
 
@@ -3248,104 +2887,6 @@ Code        do_set_book
 Position    100
 Log         0
 Permit	2
-End
-
-#COMMAND
-Name        shield~
-Code        do_shield
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        summon~
-Code        do_summon
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        seek~
-Code        do_seek
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        sandstorm~
-Code        do_sandstorm
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        scatter~
-Code        do_scatter
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        sonic~
-Code        do_sonics
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        sear~
-Code        do_sunstroke
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        soulfire~
-Code        do_soulfire
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        sworddance~
-Code        do_sworddance
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        smite~
-Code        do_smite
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        splash~
-Code        do_splash
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        shock~
-Code        do_shock
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        storm~
-Code        do_storm
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        sellhouse~
-Code        do_sellhouse
-Position    100
-Log         0
 End
 
 #COMMAND
@@ -3464,34 +3005,6 @@ Log         0
 End
 
 #COMMAND
-Name        train~
-Code        do_train
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        travel~
-Code        do_travel
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        telekinesis~
-Code        do_telekinetics
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        taint~
-Code        do_taint
-Position    112
-Log         0
-End
-
-#COMMAND
 Name        up~
 Code        do_up
 Position    109
@@ -3559,20 +3072,6 @@ Permit	4
 End
 
 #COMMAND
-Name        unhide~
-Code        do_emerge
-Position    106
-Log         0
-End
-
-#COMMAND
-Name        unholyblast~
-Code        do_unholyblast
-Position    112
-Log         0
-End
-
-#COMMAND
 Name        value~
 Code        do_value
 Position    106
@@ -3599,34 +3098,6 @@ End
 Name        ventriloquate~
 Code        do_ventriloquate
 Position    107
-Log         0
-End
-
-#COMMAND
-Name        visible~
-Code        do_emerge
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        void~
-Code        do_void
-Position    112
-Log         0
-End
-
-#COMMAND
-Name        voice~
-Code        do_ventriloquate
-Position    100
-Log         0
-End
-
-#COMMAND
-Name        vines~
-Code        do_vines
-Position    112
 Log         0
 End
 
@@ -3712,8 +3183,9 @@ End
 #COMMAND
 Name        wail~
 Code        do_wail
-Position    112
+Position    109
 Log         0
+Permit	512
 End
 
 #COMMAND
@@ -3741,13 +3213,6 @@ End
 Name        whip~
 Code        do_whip
 Position    108
-Log         0
-End
-
-#COMMAND
-Name        wind~
-Code        do_wind
-Position    112
 Log         0
 End
 

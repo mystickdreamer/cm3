@@ -1,0 +1,133 @@
+#PLAYER
+Version      5
+Name         Admin~
+Description  ~
+Sex          2
+Race         22
+Permissions	3071
+Points		4064
+Talent		0 1 1
+Talent		1 1 1
+Talent		2 1 1
+Talent		3 1 1
+Talent		4 1 1
+Talent		5 1 1
+Talent		6 1 1
+Talent		7 1 1
+Talent		8 1 1
+Talent		9 1 1
+Talent		10 1 1
+Talent		11 1 1
+Talent		12 1 1
+Talent		13 1 1
+Talent		14 1 1
+Talent		15 1 1
+Talent		16 1 1
+Talent		17 1 1
+Played       16083004
+Room         10007
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   1500 1500 4000 4000 1761 2500
+Gold         499393397
+Bank         1293722090
+Exp          2350000
+Height          16
+Weight          7
+Act          570430990
+AffectedBy   512&131072
+Position     112
+SavingThrows 0 0 0 0 0
+Hitroll      0
+Damroll      0
+Armor        0
+Mentalstate  0
+Password     åðòx’÷'yWtéXé~
+Rank         rank~
+Title         Admin title~
+Restore_time 978684969
+WizInvis     1000
+Prompt       &w> %i~
+Pagerlen     23
+RoomRange    30000 31000
+ObjRange     30000 31000
+MobRange     30000 31000
+Flags        2785792
+PKills       3
+PDeaths      0
+RKills	   250
+RDeaths	   0
+MKills       230
+MDeaths      0
+AttrPerm     100 100 100 100 100 100 100
+AttrMod      0 0 0 0 0 0 0
+Weapons	57 0 0 0 0 0 0 0 0 0 5 0 0 0 30 10 7 9 8 12
+WeaponExp	3723148 0 0 0 0 0 0 0 0 0 0 0 0 0 0 107986 0 0 449 23335
+TalentExp	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Noncombat	12 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NoncombatExp	17463 0 23314 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Condition    0 0 0 126
+Site         127.0.0.1
+Explored	2 262208&262147
+Species	housecat~
+Type	living~
+Generation	6
+Age	19
+Shield	0
+Wererace	wolf~
+Speed	100
+Inborn	0
+Channels	~
+Eyes	blue~
+Skin_color	orange~
+Skin_type	fur~
+Extra_color	dark gray~
+Extra_type	splotches~
+i3perm       3
+i3flags      256
+IMCPerm      3
+IMCFlags     256
+End
+
+#OBJECT
+Name         bronze wakizashi of human slaying~
+ShortDescr   bronze wakizashi of human slaying~
+Description  Bronze wakizashi has been dropped here.~
+Vnum         28900
+Material	22
+ExtraFlags   526400
+Condition	300
+Cost         2502
+Values       6 10 287 0 0 1 923
+Affect       -1 -1 1 17 0
+End
+
+#OBJECT
+Name         set of bronze vambraces of ice~
+ShortDescr   set of bronze vambraces of ice~
+Description  Set of bronze vambraces has been left here.~
+Vnum         29023
+Material	22
+Condition	250
+Size	10
+Cost         503001
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 1 17 0
+Affect       -1 -1 1 35 0
+End
+
+#OBJECT
+Count        3
+ObjBy	Admin~
+Vnum         28900
+Condition	300
+Values       0 10 121 0 0 1 10
+End
+
+#OBJECT
+ObjBy	Admin~
+Vnum         44
+Condition	50
+Values       200 0 0 0 0 0 10
+End
+
+#END

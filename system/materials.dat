@@ -1806,16 +1806,4 @@ Rarity	40
 Sector	-1
 Race	-1
 Extra	786432
-
-#MATERIAL
-Name	rat pelt~
-Short	a rat pelt~
-Long	A skin of a rat lies here.~
-Weight	1
-Magic	100
-Cost	1
-Rarity	100
-Sector	-1
-Race	54
-Extra	262144
 #END

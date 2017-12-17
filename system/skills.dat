@@ -27,6 +27,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -96,6 +97,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 3
 Race	1 3
 Race	2 3
@@ -167,6 +169,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 3
 Race	1 3
 Race	2 3
@@ -237,6 +240,7 @@ Talent	14 0
 Talent	15 0
 Talent	16 0
 Talent	17 0
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -308,6 +312,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 3
 Race	1 3
 Race	2 3
@@ -383,10 +388,11 @@ Talent	10 1001
 Talent	11 1001
 Talent	12 1001
 Talent	13 1001
-Talent	14 10
+Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -464,6 +470,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -539,6 +546,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -617,6 +625,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -695,6 +704,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -771,6 +781,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -850,6 +861,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -925,6 +937,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -985,8 +998,8 @@ Hitvict      &zFlickering shadows rise to conceal you.~
 Hitroom      &zFlickering shadows rise to conceal $N.&w~
 Dice         1dw~
 Value        49
-Affect       '' 60 '57' -1
 Affect       'i*w/3' 26 'dark' 41
+Affect       '' 60 '57' -1
 Stat1	2
 Stat2	3
 Talent	0 1001
@@ -1007,6 +1020,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 101
 Race	1 101
 Race	2 101
@@ -1050,79 +1064,6 @@ Race	39 101
 End
 
 #SKILL
-Name         dispel~
-Type         Spell
-Info         0
-Flags        0
-Minpos       112
-Mana         50
-Rounds       12
-Guild        0
-Code         do_dispel
-Dammsg       ~
-Stat1	2
-Stat2	3
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 0
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
-Race	0 3
-Race	1 3
-Race	2 3
-Race	3 3
-Race	4 3
-Race	5 3
-Race	6 3
-Race	7 3
-Race	8 3
-Race	9 3
-Race	10 3
-Race	11 3
-Race	12 3
-Race	13 3
-Race	14 3
-Race	15 3
-Race	16 3
-Race	17 3
-Race	18 3
-Race	19 3
-Race	20 3
-Race	21 3
-Race	22 3
-Race	23 3
-Race	24 3
-Race	25 3
-Race	26 3
-Race	27 3
-Race	28 3
-Race	29 3
-Race	30 3
-Race	31 3
-Race	32 3
-Race	33 3
-Race	34 3
-Race	35 3
-Race	36 3
-Race	37 3
-Race	38 3
-Race	39 3
-End
-
-#SKILL
 Name         dream magic~
 Type         Spell
 Info         0
@@ -1158,6 +1099,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 101
 Race	1 101
 Race	2 101
@@ -1237,6 +1179,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -1316,6 +1259,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -1395,6 +1339,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -1473,6 +1418,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -1552,6 +1498,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -1612,8 +1559,8 @@ Hitvict      &YYou start to shine brightly!&w~
 Hitroom      &Y$N starts to shine brightly!&w~
 Dice         1d(w/3)~
 Value        21
-Affect       '' 60 '533' -1
 Affect       'i*w/3' 26 'glow' 40
+Affect       '' 60 '533' -1
 Stat1	2
 Stat2	3
 Talent	0 1001
@@ -1634,6 +1581,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -1714,6 +1662,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -1757,84 +1706,6 @@ Race	39 3
 End
 
 #SKILL
-Name         light~
-Type         Spell
-Info         8
-Flags        16384
-Minpos       112
-Mana         100
-Rounds       12
-Guild        0
-Code         spell_smaug
-Dammsg       ~
-Wearoff      The globe of light blinks out of existance.~
-Hitchar      You twirl your finger and a globe of light appears.~
-Hitroom      A globe of light appears in $n's hands.~
-Value        21
-Teachers     10025~
-Stat1	2
-Stat2	3
-Talent	0 1001
-Talent	1 1001
-Talent	2 1001
-Talent	3 1001
-Talent	4 1001
-Talent	5 1001
-Talent	6 1001
-Talent	7 1001
-Talent	8 1001
-Talent	9 1001
-Talent	10 1001
-Talent	11 1001
-Talent	12 1001
-Talent	13 1001
-Talent	14 1
-Talent	15 1001
-Talent	16 1001
-Talent	17 1001
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
-Race	20 2
-Race	21 2
-Race	22 2
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 2
-Race	36 2
-Race	37 2
-Race	38 2
-Race	39 2
-End
-
-#SKILL
 Name         lightning magic~
 Type         Spell
 Info         0
@@ -1869,6 +1740,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 101
 Race	1 101
 Race	2 101
@@ -1926,8 +1798,8 @@ Hitchar      You drain a flow of mystic energy out of $N.~
 Hitvict      $n touches you and you feel mystical powers draining from your body!~
 Hitroom      A fiery gold aura surrounds $n as $e touches $N.~
 Dice         1d20~
-Affect       '' 1012 'i+w' -1
 Affect       '' 12 '-(i+w)' -1
+Affect       '' 1012 'i+w' -1
 Stat1	2
 Stat2	3
 Talent	0 1001
@@ -1948,6 +1820,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2027,6 +1900,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2085,8 +1959,8 @@ Wearoff      The speed of Motion leaves your body.~
 Hitchar      You enchant $N with the speed of Motion.~
 Hitvict      The speed of Motion flows through your body.~
 Hitroom      $N grows nimble with the speed of Motion.~
-Affect       'w*w' 24 '-(w/10)' -1
 Affect       'w*w' 18 'w/10' -1
+Affect       'w*w' 24 '-(w/10)' -1
 Stat1	3
 Stat2	2
 Talent	0 1001
@@ -2107,6 +1981,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2185,6 +2060,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 101
 Race	1 101
 Race	2 101
@@ -2251,7 +2127,7 @@ Talent	5 1001
 Talent	6 1001
 Talent	7 1001
 Talent	8 1001
-Talent	9 25
+Talent	9 1001
 Talent	10 1001
 Talent	11 1001
 Talent	12 1001
@@ -2260,6 +2136,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2303,79 +2180,6 @@ Race	39 3
 End
 
 #SKILL
-Name         portal~
-Type         Spell
-Info         0
-Flags        65536
-Minpos       112
-Mana         250
-Rounds       25
-Guild        0
-Code         spell_portal
-Dammsg       ~
-Stat1	0
-Stat2	0
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 50
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
-Race	20 2
-Race	21 2
-Race	22 2
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 2
-Race	36 2
-Race	37 2
-Race	38 2
-Race	39 2
-End
-
-#SKILL
 Name         refresh~
 Type         Spell
 Info         0
@@ -2411,6 +2215,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2486,6 +2291,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2560,6 +2366,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2639,6 +2446,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2717,6 +2525,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -2795,6 +2604,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 101
 Race	1 101
 Race	2 101
@@ -2869,81 +2679,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
-Race	0 3
-Race	1 3
-Race	2 3
-Race	3 3
-Race	4 3
-Race	5 3
-Race	6 3
-Race	7 3
-Race	8 3
-Race	9 3
-Race	10 3
-Race	11 3
-Race	12 3
-Race	13 3
-Race	14 3
-Race	15 3
-Race	16 3
-Race	17 3
-Race	18 3
-Race	19 3
-Race	20 3
-Race	21 3
-Race	22 3
-Race	23 3
-Race	24 3
-Race	25 3
-Race	26 3
-Race	27 3
-Race	28 3
-Race	29 3
-Race	30 3
-Race	31 3
-Race	32 3
-Race	33 3
-Race	34 3
-Race	35 3
-Race	36 3
-Race	37 3
-Race	38 3
-Race	39 3
-End
-
-#SKILL
-Name         spark~
-Type         Spell
-Info         899
-Flags        4096
-Target       1
-Minpos       112
-Mana         200
-Rounds       12
-Guild        0
-Code         spell_smaug
-Dammsg       spark~
-Dice         I/5 +5~
-Stat1	3
-Stat2	2
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 0
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -3023,6 +2759,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 101
 Race	1 101
 Race	2 101
@@ -3102,6 +2839,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -3181,6 +2919,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 1001
 Race	0 3
 Race	1 3
 Race	2 3
@@ -3237,9 +2976,9 @@ Wearoff      The adrenaline begins to leave your system.~
 Hitvict      A surge of adrenaline rushes through your body!~
 Missvict     You fail to work yourself into an adrenaline rush.~
 Teachers     15002~
-Affect       'c' 26 'berserk' 30
-Affect       'c*5' 1 '-4' -1
 Affect       'c' 1 '5+(c/10)' 34
+Affect       'c*5' 1 '-4' -1
+Affect       'c' 26 'berserk' 30
 Stat1	5
 Stat2	1
 Talent	0 1001
@@ -3260,6 +2999,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 101
 Race	2 2
@@ -3332,6 +3072,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 1
@@ -3404,6 +3145,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -3447,78 +3189,6 @@ Race	39 3
 End
 
 #SKILL
-Name         brew~
-Type         Skill
-Info         0
-Flags        0
-Minpos       112
-Rounds       12
-Guild        0
-Code         do_brew
-Dammsg       ~
-Stat1	2
-Stat2	4
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 0
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
-Race	20 2
-Race	21 2
-Race	22 2
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 2
-Race	36 2
-Race	37 2
-Race	38 2
-Race	39 2
-End
-
-#SKILL
 Name         climb~
 Type         Skill
 Info         0
@@ -3550,6 +3220,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -3612,8 +3283,8 @@ Missvict     You receive a three-leaf clover, which gives you no luck.~
 Missroom     $n hunts around for a four-leaf clover.~
 Dice         0~
 Teachers     13022~
-Affect       '' 31 '10' -1
 Affect       'w*u' 18 '1d(u/5)' -1
+Affect       '' 31 '10' -1
 Stat1	3
 Stat2	0
 Talent	0 1001
@@ -3634,6 +3305,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -3706,6 +3378,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 1
@@ -3778,6 +3451,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -3850,6 +3524,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -3923,6 +3598,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -3995,6 +3671,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -4068,6 +3745,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -4130,8 +3808,8 @@ Missvict     $n chants some arcane words on you.~
 Missroom     $n chants some arcane words on $N.~
 Dice         0~
 Teachers     13022~
-Affect       'i+w' 18 '-(3d18)' 8
 Affect       'i+w' 17 '15d15+50' 8
+Affect       'i+w' 18 '-(3d18)' 8
 Stat1	4
 Stat2	3
 Talent	0 1001
@@ -4152,6 +3830,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -4235,6 +3914,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -4308,6 +3988,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -4381,6 +4062,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -4454,6 +4136,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -4530,6 +4213,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -4590,8 +4274,8 @@ Misschar     You snarl a bit but fail to work yourself into a frenzy.~
 Missvict     You snarl a bit but fail to work yourself into a frenzy.~
 Missroom     $n glares around and snarls.~
 Dice         3d6~
-Affect       's+c+x' 19 '3d6' 34
 Affect       's+c+x' 18 '3d6' 30
+Affect       's+c+x' 19 '3d6' 34
 Stat1	1
 Stat2	5
 Talent	0 1001
@@ -4612,6 +4296,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -4684,6 +4369,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -4761,6 +4447,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -4834,6 +4521,7 @@ Talent	14 0
 Talent	15 0
 Talent	16 0
 Talent	17 0
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -4892,10 +4580,10 @@ Hitvict      You raise your head and let out a bloodcurdling howl.~
 Hitroom      $n raises $s head and emits a blood curdling howl.~
 Misschar     You howl for a long time but feel no different.~
 Missroom     $n raises $s head and emits a bloodcurdling howl.~
-Affect       'l*20' 2 '1' -1
-Affect       'l*20' 1 '1' -1
-Affect       'l*10' 18 '3d(l/10)' -1
 Affect       'l*10' 19 '3d(l/10)' -1
+Affect       'l*10' 18 '3d(l/10)' -1
+Affect       'l*20' 1 '1' -1
+Affect       'l*20' 2 '1' -1
 Stat1	1
 Stat2	5
 Talent	0 1001
@@ -4916,6 +4604,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -4959,79 +4648,6 @@ Race	39 101
 End
 
 #SKILL
-Name         invoke~
-Type         Skill
-Info         0
-Flags        0
-Minpos       112
-Mana         50
-Rounds       24
-Guild        0
-Code         do_invoke
-Dammsg       ~
-Stat1	3
-Stat2	2
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 0
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
-Race	20 2
-Race	21 2
-Race	22 2
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 2
-Race	36 2
-Race	37 2
-Race	38 2
-Race	39 2
-End
-
-#SKILL
 Name         jump~
 Type         Skill
 Info         0
@@ -5069,6 +4685,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -5140,6 +4757,7 @@ Talent	14 0
 Talent	15 0
 Talent	16 0
 Talent	17 0
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -5212,6 +4830,7 @@ Talent	14 0
 Talent	15 0
 Talent	16 0
 Talent	17 0
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -5285,6 +4904,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 2
@@ -5357,6 +4977,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -5429,6 +5050,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -5502,6 +5124,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -5575,6 +5198,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 1
 Race	2 2
@@ -5618,81 +5242,6 @@ Race	39 3
 End
 
 #SKILL
-Name         poison weapon~
-Type         Skill
-Info         0
-Flags        65536
-Target       4
-Minpos       112
-Rounds       12
-Guild        0
-Code         spell_null
-Dammsg       ~
-Wearoff      !poison!~
-Teachers     10095~
-Stat1	4
-Stat2	6
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 0
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
-Race	20 2
-Race	21 2
-Race	22 2
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 2
-Race	36 2
-Race	37 2
-Race	38 2
-Race	39 2
-End
-
-#SKILL
 Name         repair~
 Type         Skill
 Info         0
@@ -5722,6 +5271,7 @@ Talent	14 0
 Talent	15 0
 Talent	16 0
 Talent	17 0
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 1
@@ -5795,6 +5345,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -5835,78 +5386,6 @@ Race	36 1
 Race	37 1
 Race	38 1
 Race	39 1
-End
-
-#SKILL
-Name         scribe~
-Type         Skill
-Info         0
-Flags        0
-Minpos       112
-Rounds       18
-Guild        0
-Code         do_scribe
-Dammsg       ~
-Stat1	2
-Stat2	3
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 0
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
-Race	20 2
-Race	21 2
-Race	22 2
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 2
-Race	36 2
-Race	37 2
-Race	38 2
-Race	39 2
 End
 
 #SKILL
@@ -5940,6 +5419,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 1
 Race	1 1
 Race	2 1
@@ -5980,78 +5460,6 @@ Race	36 1
 Race	37 1
 Race	38 1
 Race	39 1
-End
-
-#SKILL
-Name         skin~
-Type         Skill
-Info         0
-Flags        0
-Minpos       108
-Rounds       12
-Guild        0
-Code         do_skin
-Dammsg       ~
-Stat1	4
-Stat2	6
-Talent	0 0
-Talent	1 0
-Talent	2 0
-Talent	3 0
-Talent	4 0
-Talent	5 0
-Talent	6 0
-Talent	7 0
-Talent	8 0
-Talent	9 0
-Talent	10 0
-Talent	11 0
-Talent	12 0
-Talent	13 0
-Talent	14 0
-Talent	15 0
-Talent	16 0
-Talent	17 0
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
-Race	20 2
-Race	21 2
-Race	22 2
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 2
-Race	36 2
-Race	37 2
-Race	38 2
-Race	39 2
 End
 
 #SKILL
@@ -6088,6 +5496,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 1
 Race	2 2
@@ -6136,13 +5545,11 @@ Type         Skill
 Info         0
 Flags        0
 Minpos       112
-Rounds       25
+Rounds       12
 Code         do_spike
 Dammsg       ~
-Wearoff      !spike!~
-Teachers     10020~
-Stat1	1
-Stat2	5
+Stat1	4
+Stat2	1
 Talent	0 0
 Talent	1 0
 Talent	2 0
@@ -6161,45 +5568,46 @@ Talent	14 0
 Talent	15 0
 Talent	16 0
 Talent	17 0
-Race	0 2
-Race	1 2
-Race	2 2
-Race	3 2
-Race	4 2
-Race	5 2
-Race	6 2
-Race	7 2
-Race	8 2
-Race	9 2
-Race	10 2
-Race	11 2
-Race	12 2
-Race	13 2
-Race	14 2
-Race	15 2
-Race	16 2
-Race	17 2
-Race	18 2
-Race	19 2
+Talent	18 0
+Race	0 101
+Race	1 101
+Race	2 101
+Race	3 101
+Race	4 101
+Race	5 101
+Race	6 101
+Race	7 101
+Race	8 101
+Race	9 101
+Race	10 101
+Race	11 101
+Race	12 101
+Race	13 101
+Race	14 101
+Race	15 101
+Race	16 101
+Race	17 101
+Race	18 101
+Race	19 101
 Race	20 101
-Race	21 2
+Race	21 101
 Race	22 101
-Race	23 2
-Race	24 2
-Race	25 2
-Race	26 2
-Race	27 2
-Race	28 2
-Race	29 2
-Race	30 2
-Race	31 2
-Race	32 2
-Race	33 2
-Race	34 2
-Race	35 101
-Race	36 2
-Race	37 2
-Race	38 2
+Race	23 101
+Race	24 101
+Race	25 101
+Race	26 101
+Race	27 101
+Race	28 101
+Race	29 101
+Race	30 101
+Race	31 101
+Race	32 101
+Race	33 101
+Race	34 101
+Race	35 3
+Race	36 101
+Race	37 101
+Race	38 101
 Race	39 101
 End
 
@@ -6234,6 +5642,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2
@@ -6307,6 +5716,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 3
 Race	1 3
 Race	2 3
@@ -6382,6 +5792,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 3
 Race	2 2
@@ -6452,6 +5863,7 @@ Talent	14 0
 Talent	15 0
 Talent	16 0
 Talent	17 0
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 3
@@ -6532,6 +5944,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 101
 Race	1 101
 Race	2 101
@@ -6605,6 +6018,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 1
 Race	2 2
@@ -6657,7 +6071,6 @@ Minpos       107
 Code         spell_null
 Dammsg       ~
 Wearoff      !Tumble!~
-Dice         1d(i/5)~
 Teachers     17705~
 Stat1	4
 Stat2	7
@@ -6679,6 +6092,7 @@ Talent	14 1001
 Talent	15 1001
 Talent	16 1001
 Talent	17 1001
+Talent	18 0
 Race	0 2
 Race	1 2
 Race	2 2

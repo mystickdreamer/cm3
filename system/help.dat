@@ -559,30 +559,6 @@ End
 
 
 #HELP
-Name     alter~
-Text     Syntax: Alter <height/weight> <argument>
-
-Using the alter command you can do the following:
-
-A level 30 Changer can also change a person's height and weight, with
-the arguments, taller, shorter, heavier, and lighter. They may use this
-on another at will. The amount of difference allowed from the person's natural
-height and weight is based on the Changer's effectivity in Change.
-~
-End
-
-
-#HELP
-Name     antimatter~
-Text     Syntax: Antimatter <victim>
-Talents: Void
- 
-This command shoots antimatter and hurts a victim.
-~
-End
-
-
-#HELP
 Name     black_dragon~
 Text     The mighty black dragons, also known as shadow dragons or soul dragons,
 are greatly feared among dragonkind. Their breath comes out as either
@@ -1122,29 +1098,6 @@ End
 
 
 #HELP
-Name     burn~
-Text     Syntax: Burn room
-Syntax: Burn <victim>
- 
-This command allows a fire Mage to use his fire to burn vegetation in the
-if possible. It can also be used as a weapon in combat.
-~
-End
-
-
-#HELP
-Name     blizzard~
-Text     Syntax: Blizzard
-Talents: Frost, Wind
- 
-This allows a caster to call a blizzard during cold times.
- 
-Cannot be used indoors.
-~
-End
-
-
-#HELP
 Name     cave_orc~
 Text     Orcs that dwell in the deep caverns underground. They are hardier
 but less intelligent than their surface dwelling cousins, the hill orcs.
@@ -1180,7 +1133,9 @@ End
 
 #HELP
 Name     common_sense~
-Text     Please try and use common sense while playing, if you need help please ask.
+Text     If you don't have this, you are a rock.
+ 
+See also: Help ROCK
 ~
 End
 
@@ -1962,11 +1917,6 @@ Text     Syntax: change <person> <race>
 With Change Species, a Changer can become anything at all they wish
 regardless of its species.
  
-
-
-Syntax: Alter <height/weight> <argument>
-Using the alter command you can do the following:
-
 A level 30 Changer can also change a person's height and weight, with
 the arguments, taller, shorter, heavier, and lighter. They may use this
 on another at will. The amount of difference allowed from the person's natural
@@ -1981,63 +1931,6 @@ End
 Name     crossbow~
 Text     Crossbows are a type of missile weapon that fires metal bolts at a
 target.
-~
-End
-
-
-#HELP
-Name     charge~
-Text     This ability lets you channel some of your mana into a target.
-Anyone can channel into an object, but only a Catalyst can
-channel mana into a mob or player, hopefully giving them more than
-they can handle and giving them mana burn.
-The item will slowly absorb the mana into itself over time.
-~
-End
-
-
-#HELP
-Name     cloudkill~
-Text     Syntax: Cloudkill 
- 
-A command based on a combination of talents death and wind. 
-This command will create a poisonous cloud and hurt everybody in the room.
-~
-End
-
-
-#HELP
-Name     chainlightning~
-Text     Syntax: Chainlightning
-Talents: Lightning
- 
-This command shoots lightning that arcs from one victim to another.
- 
-BEWARE OF WATER!
-~
-End
-
-
-#HELP
-Name     calllightning~
-Text     Syntax: Calllightning
-Talents: Lightning, Wind
- 
-This command allows the caster to call lightning down from the sky if the 
-conditions are right.
- 
-Needs stormy weather.
-Cannot cast indoors.
-~
-End
-
-
-#HELP
-Name     chill~
-Text     Syntax: Chill <target>
-Talents: Frost
- 
-This will cast a cold blast to your victim.
 ~
 End
 
@@ -3409,6 +3302,17 @@ End
 
 
 #HELP
+Name     funnel~
+Text     This ability lets you channel some of your mana into a target.
+Anyone can channel into an object, but only a Catalyst can
+channel mana into a mob or player, hopefully giving them more than
+they can handle and giving them mana burn.
+The item will slowly absorb the mana into itself over time.
+~
+End
+
+
+#HELP
 Name     fashion~
 Text     Syntax: fashion <item> <ore>
  
@@ -3435,29 +3339,6 @@ End
 #HELP
 Name     faq~
 Text     http://www.dark-tempest.com/serriya/forum/viewtopic.php?t=39
-~
-End
-
-
-#HELP
-Name     flare~
-Text     Syntax: Flare <all/victim>
-Talents: Illusion, Catalysm
- 
-This command causes a flash of light to sear victims.
-~
-End
-
-
-#HELP
-Name     flamingrain~
-Text     Syntax: FlamingRain
-Talents: Fire, Wind
- 
-This allows a caster to to call down flaming droplets of fire to burn their 
-victims.
- 
-Cannot cast indoors.
 ~
 End
 
@@ -4237,6 +4118,13 @@ End
 
 
 #HELP
+Name     housecat~
+Text     Furballs with claws.
+~
+End
+
+
+#HELP
 Name     hitpoints~
 Text     HP is your basic life measurement.  When you are damaged in any way
 (say if you fell off a cliff or lost your pecker in the jig-saw) your
@@ -4302,34 +4190,6 @@ Name     hermaphrodite~
 Text     Hermaphrodites are generally freaks of nature, although they aren't
 uncommon among some species. They possess both male and female
 genetalia, and share the characteristics of both genders.
-~
-End
-
-
-#HELP
-Name     house~
-Text     There are houses around the world that you can buy.
- 
-Syntax: homebuy
- 
- 
-Once you own a house
- 
-Syntax: House
-
-This will let you change the name of your house.
-It will let you change the description of your house.
-It will also allow you to add rooms to your house, for a price.
- 
- 
-Syntax: Accessories
-You can buy accessories for your house.
- 
- 
- 
-Syntax: sellhouse
- 
-If you no longer want your house you can sell it.
 ~
 End
 
@@ -4612,16 +4472,6 @@ Text     The Issilwyn are a race of peaceful reptilian humanoids. Their scales
 and their faces are much like humans, although lacking in ears. Their
 hair is sleek and smooth as silk, and ranges in as many colors as the rest
 of their bodies. They tend to wear it long and keep it very clean.
-~
-End
-
-
-#HELP
-Name     identify~
-Text     Syntax: Identify <item>
-Talents: Seeking
- 
-This ability lets a mage discern different pieces of information about an item.
 ~
 End
 
@@ -5599,75 +5449,6 @@ Text     Syntax: money
 Shows you how much money you are carrying and is in your bank account.
  
 See also: BANK, COINS, GOLD
-~
-End
-
-
-#HELP
-Name     mobflags~
-Text     IS_NPC   Auto set for mobs      LEAVE SET FOR MOBS
-SENTINEL  Stays in one room where you instaroom the mob
-SCAVENGER   Picks up objects that are dropped onto the ground
-AGGRESSIVE   Attacks PC's  
-STAY_AREA   Won't leave area 
-WIMPY   Flees when hurt 
-TRAIN   Can train PC's STATS
-PRACTICE  Can teach skills to PC if the skill has assigned them as trainer 
-GUARDIAN  Protects master if has one  
-RUNNING     Hunts quickly 
-NOWANDER  Doesn't wander
-MOUNTABLE  Can be mounted 
-NO_CORPSE             Does not leave a corpse 
-SECRETIVE actions aren't seen 
-MOBINVIS The mob cannot be seen by players
-NOASSIST  Doesn't assist mobs 
-PACIFIST          Doesn't ever fight 
-PROTOTYPE Don't forget to remove after finished with mob
-~
-End
-
-
-#HELP
-Name     magma~
-Text     Syntax: Magma <all/victim>
-Talents: Earth, Fire
- 
-This command causes magma to shoot from you, and hurt one or more victims.
-~
-End
-
-
-#HELP
-Name     manastorm~
-Text     Syntax: ManaStorm
-Talents: Catalysm, Wind
- 
-This allows a caster to use Raw mana to hurt their victim.
- 
-Cannot cast indoors.
-~
-End
-
-
-#HELP
-Name     meteor~
-Text     Syntax: Meteor <victim>
-Talents: Earth, Void
- 
-This allows the caster to call a meteor down from the sky to hurt his 
-victims.
- 
-Cannot cast indoors.
-~
-End
-
-
-#HELP
-Name     mindflay~
-Text     Syntax: Mindflay <victim>
-Talents: Mind
- 
-This spell hurts the victims mental state
 ~
 End
 
@@ -7136,16 +6917,6 @@ End
 
 
 #HELP
-Name     quake~
-Text     Syntax: Quake
- 
-A command based on your Earth talent. This causes an earthquake that 
-throws rocks at your enemies.
-~
-End
-
-
-#HELP
 Name     red_dragon~
 Text     Terrible, violent dragons of flame and fire, red dragons are greatly
 feared throughout the realms for their evil and greed as well as their
@@ -7604,6 +7375,15 @@ End
 
 
 #HELP
+Name     rock~
+Text     YOU MUST BE SMARTER THAN A ROCK TO PLAY THIS GAME.
+IF YOU ARE NOT SMARTER THAN A ROCK, YOU WILL GO AWAY.
+IF YOU TRY TO BE A DIPSHIT ON PURPOSE, YOU ARE GONE.
+~
+End
+
+
+#HELP
 Name     rodent~
 Text     Rodents are creatures related to rats, and may include true rats as well
 as humanoid rats such as skavens.
@@ -7890,6 +7670,13 @@ Text     The magic system of Rogue Winds is based on TALENTS, specific disciplin
 
 See: SLIST, TALENTS, EXP, POWER, EFFECTIVITY, ROLEPLAY, LEVELS
 See also: SKILLS (non-magical abilities)
+~
+End
+
+
+#HELP
+Name     sex~
+Text     Yes please.
 ~
 End
 
@@ -8964,12 +8751,6 @@ Text     syntax: sword <victim>
 Using magic this spell creates copies of a wielded sword that
 will attack the victim and after dealing their damage
 disappear in a ghostly flash.
-Syntax: SwordDance <victim>
-Talents: Time, Void, Catalysm
- 
-This allows a caster to conure etheral swords to attack with him.
- 
-Must have a sword in hand.
 ~
 End
 
@@ -9218,131 +8999,6 @@ End
 
 
 #HELP
-Name     spellflags~
-Text     #define SF_WATER  BV00   /* won't work without water  */
-#define SF_EARTH  BV01   /* won't work without plants */
-#define SF_AIR  BV02   /* won't work without air */
-#define SF_ASTRAL  BV03   /* dreamworld */
-#define SF_AREA  BV04   /* is an area spell      */
-#define SF_DISTANT  BV05   /* affects something far away  */
-#define SF_REVERSE  BV06
-#define SF_NOSELF  BV07   /* Can't target yourself!   */
-#define SF_GROUND  BV08   /* won't work unless on ground */
-#define SF_ACCUMULATIVE  BV09   /* is accumulative    */
-#define SF_RECASTABLE  BV10   /* can be refreshed      */
-#define SF_NOSCRIBE  BV11   /* cannot be scribed     */
-#define SF_NOBREW  BV12   /* cannot be brewed      */
-#define SF_GROUPSPELL  BV13   /* only affects group members  */
-#define SF_OBJECT  BV14   /* directed at an object   */
-#define SF_CHARACTER  BV15   /* directed at a character  */
-#define SF_SECRETSKILL  BV16   /* hidden unless learned   */
-#define SF_PKSENSITIVE  BV17   /* much harder for plr vs. plr   */
-#define SF_STOPONFAIL  BV18   /* stops spell on first failure */
-#define SF_NOFIGHT  BV19   /* stops if char fighting       */
-#define SF_NODISPEL               BV20 /* stops spell from being dispelled */
-#define SF_INSTANT  BV21   /* spell is cast instantly */
-~
-End
-
-
-#HELP
-Name     spike~
-Text     Usage:
-     spike <obj> <ore>
- 
- 
-The spike command is used to create spikes onto an item.
-~
-End
-
-
-#HELP
-Name     scribe~
-Text     Syntax: scribe scroll <spell>
-Use Syntax: Recite <scroll>
-
-This allows you to scribe a spell you know to a scroll.
-~
-End
-
-
-#HELP
-Name     scroll~
-Text     Syntax: Recite <scroll> 
- 
-Scrolls are spells that have been magically applied to paper to allow someone
-who does not have the spell to cast it.
-~
-End
-
-
-#HELP
-Name     sandstorm~
-Text     Syntax: Sandstorm
- 
-This command is based off of the talents Wind and Earth.
-Sand will attack everyone in the room.
-~
-End
-
-
-#HELP
-Name     sonic~
-Text     Syntax: Sonic <victim>
-Talents: Speech
- 
-This allows a Bard to make the air vibrate and hurt his victims.
- 
-Cannot be used underwater.
-~
-End
-
-
-#HELP
-Name     steam~
-Text     Syntax: Steam <victim>
-Talents: Water, Fire
- 
-This allows a caster to shoot steam that hurts his victims.
-~
-End
-
-
-#HELP
-Name     sear_ability~
-Text     Syntax: Sear <victim>
-Talents: Fire, Illusion
- 
-This allows a caster to call a beam of sun down to hurt his victims.
- 
-Cannot be used indoors.
-~
-End
-
-
-#HELP
-Name     soulfire~
-Text     Syntax: Soulfire <victim>
-Talents: Death, Fire
- 
-This conjures black fire that burns the victims soul.
-~
-End
-
-
-#HELP
-Name     sworddance~
-Text     (null)~
-End
-
-
-#HELP
-Name     smite~
-Text     (null)~
-End
-
-
-#HELP
 Name     trolls~
 Text     Tall, stupid, and incredibly powerful, trolls are known for their voracious
 appetites and fierce fighting ability. They prefer to tear up meat with
@@ -9569,6 +9225,13 @@ End
 
 
 #HELP
+Name     toilet~
+Text     You sit on it.
+~
+End
+
+
+#HELP
 Name     talents~
 Text     Talents are various magical abilities which may each be able
 to perform different magical effects. Type talent <name>
@@ -9662,20 +9325,6 @@ End
 
 
 #HELP
-Name     telekinesis~
-Text     Syntax: Telekinesis 
- 
-This is a command based on the talents of motion and mind.
-This will mentally hurt your victims.
- 
- 
- 
-Future Plans: To move items with your mind.
-~
-End
-
-
-#HELP
 Name     umber_hulk~
 Text     Gigantic demonic beasts. Feared and respected
 for thier battle poweress. These beasts thrive
@@ -9718,18 +9367,6 @@ Name     unicorn~
 Text     Magical beings like a horse with a spiral horn from their
 forehead and a tail like a lion. Known for their healing
 abilities.
-~
-End
-
-
-#HELP
-Name     unholyblast~
-Text     Syntax: UnholyBlast <victim>
-Talents: Death
- 
-This is a blast of Unholy energy.
- 
-This is particularily useful against holy beings as in angels.
 ~
 End
 

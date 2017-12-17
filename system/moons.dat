@@ -1,36 +1,36 @@
 
 #MOON
-Name       Lezaria~
-Color      red~
-World      Eaorth~
-Phase      2
-Set        4
-Rise       18
-Type       2
+Name       halladan~
+Color      green~
+World      Lezaria~
+Phase      3
+Set        18
+Rise       4
+Type       0
 
 #MOON
-Name       Ismit~
-Color      black~
-World      Eaorth~
-Phase      4
+Name       thondorron~
+Color      silver~
+World      Lezaria~
+Phase      2
 Set        6
 Rise       7
 Type       0
 
 #MOON
-Name       Thoth~
-Color      Green~
-World      Eaorth~
-Phase      2
-Set        4
-Rise       7
+Name       death~
+Color      pitch black~
+World      Mezulbryst~
+Phase      3
+Set        3
+Rise       20
 Type       0
 
 #MOON
 Name       celestra~
 Color      blue~
 World      Sasherey~
-Phase      1
+Phase      4
 Set        5
 Rise       23
 Type       0
@@ -39,7 +39,7 @@ Type       0
 Name       war~
 Color      blood red~
 World      Mezulbryst~
-Phase      3
+Phase      0
 Set        2
 Rise       5
 Type       0
@@ -48,7 +48,7 @@ Type       0
 Name       famine~
 Color      ochre~
 World      Mezulbryst~
-Phase      1
+Phase      4
 Set        20
 Rise       4
 Type       0
@@ -57,7 +57,7 @@ Type       0
 Name       pestilence~
 Color      sickly green~
 World      Mezulbryst~
-Phase      3
+Phase      0
 Set        7
 Rise       16
 Type       0
@@ -66,7 +66,7 @@ Type       0
 Name       harvest~
 Color      gold~
 World      Wilderplane~
-Phase      4
+Phase      1
 Set        11
 Rise       18
 Type       0
@@ -75,7 +75,7 @@ Type       0
 Name       mist~
 Color      white~
 World      Hasaris~
-Phase      3
+Phase      2
 Set        10
 Rise       16
 Type       0
@@ -84,7 +84,7 @@ Type       0
 Name       khan~
 Color      fiery red~
 World      Corstad~
-Phase      3
+Phase      0
 Set        5
 Rise       13
 Type       0
@@ -93,7 +93,7 @@ Type       0
 Name       shimmer~
 Color      lavender~
 World      sashery~
-Phase      2
+Phase      3
 Set        18
 Rise       20
 Type       0
@@ -102,7 +102,7 @@ Type       0
 Name       bondala~
 Color      deep blue~
 World      corstad~
-Phase      2
+Phase      3
 Set        17
 Rise       10
 Type       0
@@ -111,7 +111,7 @@ Type       0
 Name       regalia~
 Color      purple~
 World      Hasaris~
-Phase      3
+Phase      2
 Set        1
 Rise       21
 Type       0
@@ -120,7 +120,7 @@ Type       0
 Name       quicksilver~
 Color      silver~
 World      Corstad~
-Phase      1
+Phase      4
 Set        17
 Rise       20
 Type       0
@@ -129,7 +129,7 @@ Type       0
 Name       thought~
 Color      lavender~
 World      Wilderplane~
-Phase      3
+Phase      2
 Set        20
 Rise       19
 Type       0
@@ -138,7 +138,7 @@ Type       0
 Name       luna~
 Color      white~
 World      Terra~
-Phase      3
+Phase      0
 Set        6
 Rise       19
 Type       0

@@ -1,0 +1,51 @@
+This code is created by multiple people, you can find them in the "credits" help file
+on the MUD.  The code is prepared and released by Ntanel StormBlade of HNE -
+MudWorld.  You MUST leave all credits in tact to avoid breaking MUD licencing laws
+and seeing the result of ignoring them.
+
+CalareyMUD 3.0 is by Keolah.  The feature are:
+-----
+- Premade "Admin" character to start up with, password is "admin".
+- No classes or levels.
+- Harvest ingredients to mix into alchemical recipes.
+- Room descriptions that change depending on the time of day and weather.
+- Take on a wide range of quests, from simple to challenging.
+- Player-fashioned equipment.
+- Fashion items from more than 100 different materials combined how you like them.
+- Each material has different properties and affects.
+- Enchant your armor and weapons to improve them.
+- Affix gems to your items.
+- Bind it to you so that it stays with you on death.
+- Brand your weapons from one of 12 different brands like flaming or vorpal.
+- Develop a bane on the weapon to do more damage against one kind of monster.
+- Engrave names on your metal items, dye your cloths, or reshape your equipment as
+  you want it.
+- An in-depth magic system.
+- 19 magical Talents. Pick the combination of Talents you want and develop them.
+- A wide variety of abilities which draw upon one or more Talents.
+- Automatic affects and abilities which happen reflexively, such as blur and sense
+  magic.
+- Detailed character development. Pick the combination of Talents you want and
+  develop the weapons you choose.
+- An original species system. Choose from over 100 different nations in 23 species.
+- Sparring. Duel your fellow players without danger of dying.
+- Start up families and clans, get married, adopt children.
+- Detailed quest code, mobs that can remember what you have said or done.
+- Privilege system.  Give permission to staff according to job.
+- InterMUD 3 capabilties, installed, but disabled in the Makefile.
+- IMC2 capabilties, installed, but disabled in the Makefile.
+  (Obviously I3 and IMC2 need compiled once enabled.)
+
+InterMUD 3 and IMC2 were added by Samson of Alsherok.
+
+Want a list of the older features from the RM3.0 and 4.0 releases? Go to   
+http://www.mudworld.org/CBHQ/resort/, if this address no longer works, search
+for MudWorld, ResortMUD or UCMM on any major search engine.
+
+* NOTE: All Users -
+  Do not forget before starting up that the MUD's port, main directory and owner's
+  email must be set in rmstart.
+
+* NOTE: Linux Users -
+  We should mention that after you set the Makefile, rmstart and compile the code
+  that to startup the MUD you must type "./rmstart &" in the src directory.

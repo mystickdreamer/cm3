@@ -1,38 +1,48 @@
 [*****] BOOT: ---------------------[ Boot Log ]--------------------
-[*****] BOOT: load_room_reset: stockobj.are (1) 'O': object 21013 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17012 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17004 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'G': object 19996 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17001 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17006 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17005 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18301 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 201 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18700 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17199 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 9006 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17002 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17100 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 17110 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 19402 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'O': object 18701 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17010 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 17003 doesn't exist.
-[*****] BOOT: load_room_reset: elkandu.are (1) 'M': mobile 18302 doesn't exist.
-[*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 2 not door.
-[*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 1 not door.
-[*****] BOOT: load_room_reset: jaston.are (1) 'D': exit 0 not door.
-[*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18303 doesn't exist.
-[*****] BOOT: load_room_reset: jaston.are (1) 'M': mobile 18700 doesn't exist.
+[*****] BOOT: load_resets: stockobj.are (1) 'O': object 21013 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (3) 'M': mobile 17012 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (4) 'M': mobile 17004 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (5) 'M': mobile 18302 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (14) 'M': mobile 18301 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (16) 'M': mobile 17003 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (25) 'O': object 17199 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (37) 'O': object 201 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (42) 'O': object 9006 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (43) 'M': mobile 17005 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (44) 'M': mobile 18700 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (45) 'M': mobile 17002 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (47) 'M': mobile 19402 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (48) 'M': mobile 17003 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (50) 'M': mobile 17006 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (55) 'O': object 17110 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (56) 'M': mobile 17001 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (58) 'M': mobile 17003 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (61) 'O': object 17100 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (62) 'M': mobile 17003 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (63) 'O': object 18701 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (64) 'M': mobile 18302 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (66) 'M': mobile 19402 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (67) 'G': object 19996 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (77) 'M': mobile 17010 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (78) 'M': mobile 17010 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (79) 'M': mobile 17002 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (80) 'M': mobile 17010 doesn't exist.
+[*****] BOOT: load_resets: elkandu.are (81) 'M': mobile 17003 doesn't exist.
+[*****] BOOT: load_resets: jaston.are (3) 'D': exit 2 not door.
+[*****] BOOT: load_resets: jaston.are (4) 'D': exit 1 not door.
+[*****] BOOT: load_resets: jaston.are (5) 'D': exit 0 not door.
+[*****] BOOT: load_resets: jaston.are (19) 'M': mobile 18700 doesn't exist.
+[*****] BOOT: load_resets: jaston.are (21) 'M': mobile 18303 doesn't exist.
 [*****] BOOT: load_resets: school.are (1) 'M': mobile 20003 doesn't exist.
 [*****] BOOT: load_resets: school.are (3) 'O': object 27999 doesn't exist.
+[*****] BOOT: Fix_exits: room 17016, exit east leads to bad vnum (11012)
+[*****] BOOT: Fix_exits: room 17018, exit north leads to bad vnum (11000)
+[*****] BOOT: Fix_exits: room 17018, exit east leads to bad vnum (11011)
+[*****] BOOT: Fix_exits: room 17019, exit north leads to bad vnum (11011)
+[*****] BOOT: Fix_exits: room 17019, exit south leads to bad vnum (11012)
+[*****] BOOT: Fix_exits: room 17020, exit north leads to bad vnum (11012)
+[*****] BOOT: Fix_exits: room 17049, exit south leads to bad vnum (18595)
+[*****] BOOT: Fix_exits: room 17070, exit west leads to bad vnum (17200)
+[*****] BOOT: Fix_exits: room 17083, exit east leads to bad vnum (17900)
+[*****] BOOT: Fix_exits: room 17091, exit down leads to bad vnum (18599)
 [*****] BOOT: Fix_exits: room 9001, exit east leads to bad vnum (17721)

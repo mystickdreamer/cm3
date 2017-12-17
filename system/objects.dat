@@ -1,40 +1,8 @@
 #OBJECT
-ShortDescr   arrow~
-Vnum         29048
-Room         20194
-Condition	50
-Values       20 1 279 0 0 8 32681
-End
-
-#OBJECT
-Vnum         29048
-Room         20181
-Condition	50
-Values       20 1 100 0 0 8 32612
-End
-
-#OBJECT
-Vnum         29031
-Room         20181
-Condition	150
-Values       0 5 121 0 0 2 32612
-End
-
-#OBJECT
 Vnum         21001
 Room         20036
 Condition	500000
-End
-
-#OBJECT
-Vnum         20001
-Room         20037
-ExtraFlags   8192
-Condition	50
-Cost         0
-Values       1 31 20 -1 -1 -1 0
-Spell 1      'refresh'
-Spell 2      'hyperactivity'
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
@@ -43,7 +11,7 @@ Room         20037
 ExtraFlags   8192
 Condition	50
 Cost         0
-Values       1 -1 35 37 0 0 0
+Values       1 -1 32 34 0 0 10
 Spell 2      'sedate'
 Spell 3      'sleep'
 End
@@ -55,7 +23,7 @@ ExtraFlags   73728
 Condition	50
 Timer        12
 Cost         0
-Values       20 12 0 0 0 0 0
+Values       20 12 0 0 0 0 10
 End
 
 #OBJECT
@@ -64,7 +32,7 @@ Room         20039
 ExtraFlags   8192
 Condition	50
 Cost         0
-Values       5 5 1 0 75559 0 0
+Values       5 5 1 0 445 0 10
 End
 
 #OBJECT
@@ -73,38 +41,42 @@ Room         20039
 ExtraFlags   8192
 Condition	50
 Cost         0
-Values       20 20 10 0 75558 0 0
+Values       20 20 10 0 444 0 10
 End
 
 #OBJECT
 Vnum         22
 Room         20040
 Condition	500000
-Values       100000 100000 0 0 0 0 0
+Values       100000 100000 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         30
 Room         20041
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20041
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20043
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20045
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
@@ -112,6 +84,7 @@ Vnum         20098
 Room         20047
 ExtraFlags   139265
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
@@ -120,7 +93,15 @@ Room         20048
 ExtraFlags   532480
 Condition	50
 Cost         0
-Values       0 0 0 0 0 7 0
+Values       0 0 0 0 0 7 10
+End
+
+#OBJECT
+Vnum         20116
+Room         20048
+Condition	50
+Cost         0
+Values       0 0 0 0 0 8 10
 End
 
 #OBJECT
@@ -129,119 +110,143 @@ Room         20048
 ExtraFlags   598016
 Condition	50
 Cost         0
-Values       0 0 0 0 0 9 0
+Values       0 0 0 0 0 9 10
+End
+
+#OBJECT
+Vnum         21
+Room         20050
+ExtraFlags   8257
+Condition	50
+Cost         0
+Values       0 0 -1 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20059
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20071
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
+Count        57
 Vnum         21001
 Room         20072
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20083
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20101
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20112
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20145
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20151
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20153
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20154
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20155
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20156
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20157
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20159
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         20013
 Room         20160
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20161
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         20014
 Room         20162
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         empty cup~
-ShortDescr   an empty cup~
-Description  An empty cup sits here.~
 Vnum         35
 Room         20163
 Condition	50
-Values       5 0 0 0 75558 0 0
+Values       5 0 0 0 444 0 10
 End
 
 #OBJECT
@@ -249,7 +254,7 @@ Vnum         20001
 Room         20163
 Condition	50
 Cost         0
-Values       1 31 20 -1 -1 -1 0
+Values       1 28 19 -1 -1 -1 10
 Spell 1      'refresh'
 Spell 2      'hyperactivity'
 End
@@ -259,44 +264,49 @@ Vnum         20088
 Room         20163
 Condition	50
 Cost         0
-Values       5 5 4 0 75559 0 0
+Values       5 5 4 0 445 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20165
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20166
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20168
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20169
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         21001
 Room         20170
 Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
 Vnum         9006
 Room         20177
 Condition	500000
-Values       10000 10000 0 0 0 0 32727
+Values       10000 10000 0 0 0 0 10
 End
 
 #OBJECT
@@ -305,6 +315,7 @@ Room         20182
 ExtraFlags   8256
 Condition	50
 Cost         0
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
@@ -312,83 +323,7 @@ Vnum         20098
 Room         20190
 ExtraFlags   139265
 Condition	500000
-End
-
-#OBJECT
-Vnum         9006
-Room         9000
-Condition	500000
-Values       10000 10000 0 0 0 0 32727
-End
-
-#OBJECT
-Vnum         9000
-Room         9005
-Condition	500000
-Values       0 0 0 0 0 0 32727
-End
-
-#OBJECT
-Vnum         9001
-Room         9017
-Condition	500000
-Values       1 0 0 0 0 0 32727
-End
-
-#OBJECT
-Vnum         9002
-Room         9027
-Condition	500000
-Values       0 0 0 0 0 0 32727
-End
-
-#OBJECT
-Vnum         9003
-Room         9039
-Condition	500000
-Values       1 0 0 0 0 0 32727
-End
-
-#OBJECT
-Vnum         9004
-Room         9069
-Condition	500000
-Values       0 0 0 0 0 0 32727
-End
-
-#OBJECT
-Vnum         9005
-Room         9073
-Condition	500000
-Values       0 0 0 0 0 0 32727
-End
-
-#OBJECT
-Vnum         20007
-Room         17000
-Condition	500000
-Values       1000000 0 0 0 0 0 0
-End
-
-#OBJECT
-Vnum         99
-Room         17000
-Condition	500000
-Values       10000 10000 0 0 0 0 0
-End
-
-#OBJECT
-Vnum         20013
-Room         17088
-Condition	500000
-End
-
-#OBJECT
-Vnum         20116
-Room         20048
-Condition	50
-Cost         0
-Values       0 0 0 0 0 8 0
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
@@ -396,2547 +331,644 @@ Vnum         36
 Room         20197
 Condition	50
 Cost         0
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         pair of gnomeskin briefs of time~
-ShortDescr   pair of gnomeskin briefs of time~
-Description  Pair of gnomeskin briefs has been discarded here.~
-Vnum         29015
-Material	55
-Room         17081
-Condition	50
-Size	63
-Cost         511500
-Values       5 5 0 0 0 0 32560
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 3 0
-Affect       -1 -1 1 43 0
-End
-
-#OBJECT
-Name         mace bronze~
-ShortDescr   bronze mace~
-Description  Bronze mace is laying here.~
-Vnum         29036
-Material	22
-Room         17094
-Condition	200
-Cost         1001
-Values       0 5 92 0 0 5 32736
-Affect       -1 -1 1 17 0
-End
-
-#OBJECT
-Name         veil leaf~
-ShortDescr   leaf veil~
-Description  Leaf veil lays on the ground here.~
-Vnum         29059
-Material	3
-Room         17081
-ExtraFlags   329792
-Condition	50
-Size	40
-Cost         501
-Values       2 2 0 0 0 0 32736
-End
-
-#OBJECT
-Name         bone bastard sword of damage~
-ShortDescr   bone bastard sword of damage~
-Description  Bone bastard sword has been dropped here.~
-Vnum         29034
-Material	41
-Room         17094
-Condition	450
-Cost         13001
-Values       0 8 126 0 0 1 32736
-Affect       -1 -1 10 5 0
-Affect       -1 -1 8 19 0
-End
-
-#OBJECT
-Name         crown iron~
-ShortDescr   iron crown~
-Description  Iron crown sits on the ground.~
-Vnum         28932
-Material	1
-Room         17080
-Condition	100
-Size	66
-Cost         5001
-Values       5 5 0 0 0 0 32736
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         %s trident stone~
-ShortDescr   stone trident~
-Description  Three-pronged stone spear was dropped here.~
-Vnum         29091
-Material	23
-Room         17094
-Condition	500
-Cost         10001
-Values       0 9 140 0 0 12 32736
-End
-
-#OBJECT
-Name         stone javelin of ice~
-ShortDescr   stone javelin of ice~
-Vnum         29119
-Material	23
-Room         17094
-ExtraFlags   526336
-Condition	450
-Cost         502901
-Values       0 0 121 2 4 12 32736
-Affect       -1 -1 1 35 0
-End
-
-#OBJECT
-Name         amulet stone~
-ShortDescr   stone amulet~
-Description  Stone amulet was dropped here.~
-Vnum         29064
-Material	23
-Room         17080
-Condition	150
-Size	49
-Cost         5001
-Values       5 5 0 0 0 0 32736
-End
-
-#OBJECT
-Name         staff quarterstaff stone~
-ShortDescr   stone quarterstaff~
-Description  Stone staff was dropped here.~
-Vnum         29055
-Material	23
-Room         17094
-Condition	500
-Cost         501
-Values       0 10 40 0 0 10 32636
-End
-
-#OBJECT
-Name         mace lead~
-ShortDescr   lead mace~
-Description  Lead mace is laying here.~
-Vnum         29036
-Material	9
-Room         17094
-Condition	200
-Cost         1001
-Values       0 5 172 0 0 5 32636
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         scythe iron~
-ShortDescr   iron scythe~
-Description  A wicked looking iron scythe was left here.~
-Vnum         28925
-Material	1
-Room         17094
-Condition	250
-Cost         1
-Values       0 8 225 0 0 13 32520
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         willow helm of the snake~
-ShortDescr   willow helm of the snake~
-Description  Willow helm sits on the ground.~
-Vnum         29004
-Material	85
-Room         17080
-ExtraFlags   591872
-Condition	50
-Size	69
-Cost         44999
-Values       5 5 0 0 0 0 32520
-Affect       -1 -1 10 2 0
-Affect       -1 -1 11 2 0
-End
-
-#OBJECT
-Name         bone club of sight~
-ShortDescr   bone club of sight~
-Description  Bone club lies on the ground.~
-Vnum         28926
-Material	41
-Room         17094
-Condition	50
-Cost         2500
-Values       0 8 247 0 0 5 32520
-Affect       -1 -1 10 5 0
-Affect       -1 -1 1 25 0
-End
-
-#OBJECT
-ObjBy	Nerian~
-Vnum         31
-Room         20041
+Vnum         9006
+Room         9000
 Condition	500000
+Values       10000 10000 0 0 0 0 10
 End
 
 #OBJECT
-Name         sash orcskin~
-ShortDescr   orcskin sash~
-Description  Orcskin sash was left here.~
-Vnum         28916
-Material	54
-Room         17081
-ExtraFlags   264192
-Condition	100
-Size	68
-Cost         1501
-Values       5 5 0 0 0 0 32570
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 5 0
+Vnum         9000
+Room         9005
+Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         oak hoopak of undead slaying~
-ShortDescr   oak hoopak of undead slaying~
-Description  Oak hoopak is laying on the ground.~
-Vnum         28921
-Material	84
-Room         17094
-ExtraFlags   591936&4
-Condition	200
-Cost         31001
-Values       1 5 63 0 0 10 216
-Affect       -1 -1 10 5 0
+Vnum         9001
+Room         9017
+Condition	500000
+Values       1 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         kimono seaweed~
-ShortDescr   seaweed kimono~
-Description  Seaweed kimono is laying here.~
-Vnum         29107
-Material	36
-Room         17081
-Condition	100
-Size	35
-Cost         505
-Values       6 6 0 0 0 0 32570
-Affect       -1 -1 -1 25 0
+Vnum         9002
+Room         9027
+Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         mask bronze~
-ShortDescr   bronze mask~
-Description  Bronze mask has been left here.~
-Vnum         29024
-Material	22
-Room         17080
-Condition	50
-Size	42
-Cost         2001
-Values       7 7 0 0 0 0 32570
-Affect       -1 -1 1 17 0
+Vnum         9003
+Room         9039
+Condition	500000
+Values       1 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         slippers red dragon scale~
-ShortDescr   red dragon scale slippers~
-Vnum         29095
-Material	11
-Room         17081
-Condition	50
-Size	60
-Cost         4500
-Values       1 1 0 0 0 0 32570
-Affect       -1 -1 1 27 0
+Vnum         9004
+Room         9069
+Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Vnum         21
-Room         20050
-ExtraFlags   8257
-Condition	50
-Cost         0
-Values       0 0 -1 0 0 0 0
+Vnum         9005
+Room         9073
+Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         copper helm of time~
-ShortDescr   copper helm of time~
-Description  Copper helm sits on the ground.~
-Vnum         29004
-Material	7
-Room         17080
-Condition	50
-Size	61
-Cost         502001
-Values       5 5 0 0 0 0 32669
-Affect       -1 -1 4 29 0
-Affect       -1 -1 1 43 0
+Vnum         20007
+Room         17000
+Condition	500000
+Values       1000000 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         claw iron~
-ShortDescr   iron claw~
-Description  Iron claw is laying on the ground.~
-Vnum         29044
-Material	1
-Room         17094
-Condition	250
-Size	57
-Cost         1001
-Values       0 3 41 0 0 14 32665
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
+Vnum         99
+Room         17000
+Condition	500000
+Values       10000 10000 0 0 0 0 10
 End
 
 #OBJECT
-Name         collar seaweed~
-ShortDescr   seaweed collar~
-Description  Seaweed collar has been left here.~
-Vnum         29019
-Material	36
-Room         17081
-Condition	100
-Size	57
-Cost         105
-Values       5 5 0 0 0 0 32665
-Affect       -1 -1 -1 25 0
+Vnum         20013
+Room         17088
+Condition	500000
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         vest wool~
-ShortDescr   wool vest~
-Description  Wool vest lies crumpled on the ground.~
-Vnum         29003
-Material	28
-Room         17081
-ExtraFlags   329728
-Condition	150
-Size	55
-Cost         202
-Values       10 10 0 0 0 0 32665
-End
-
-#OBJECT
-Name         scuba gear iron~
-ShortDescr   iron scuba gear~
-Vnum         29127
-Material	1
-Room         17080
-ExtraFlags   526336
-Condition	1500
-Size	71
-Cost         10002
-Values       20 20 0 0 0 0 32665
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         clay scimitar of anti-matter~
-ShortDescr   clay scimitar of anti-matter~
-Vnum         29106
-Material	45
-Room         17094
-Condition	350
-Cost         502709
-Values       0 0 153 3 12 1 32665
-Affect       -1 -1 16 29 0
-Affect       -1 -1 1 50 0
-End
-
-#OBJECT
-Name         hat fur~
-ShortDescr   fur hat~
-Vnum         28952
-Material	43
-Room         17081
-ExtraFlags   329728
-Condition	150
-Size	69
-Cost         1999
-Values       4 4 0 0 0 0 32665
-End
-
-#OBJECT
-Name         javelin lead~
-ShortDescr   lead javelin~
-Vnum         29119
-Material	9
-Room         17094
-ExtraFlags   526336
-Condition	450
-Cost         1901
-Values       0 0 194 2 0 12 32665
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         dai katana lead~
-ShortDescr   lead dai katana~
-Vnum         29124
-Material	9
-Room         17094
-ExtraFlags   17303552&4
-Condition	600
-Cost         2501
-Values       0 0 189 3 0 1 32665
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         clay tongue ring of dream~
-ShortDescr   clay tongue ring of dream~
-Vnum         29125
-Material	45
-Room         17080
-ExtraFlags   526336
-Condition	50
-Size	77
-Cost         502021
-Values       0 2 0 0 0 0 32665
-Affect       -1 -1 16 29 0
-Affect       -1 -1 1 38 0
-End
-
-#OBJECT
-Name         bone scythe of protection~
-ShortDescr   bone scythe of protection~
-Description  A wicked looking bone scythe was left here.~
-Vnum         28925
-Material	41
-Room         17094
-ExtraFlags   25692160
-Condition	250
-Cost         24000
-Values       0 8 42 0 0 13 32665
-Affect       -1 -1 10 5 0
-Affect       -1 -1 23 17 0
-End
-
-#OBJECT
-Name         vambraces copper~
-ShortDescr   set of copper vambraces~
-Description  Set of copper vambraces has been left here.~
-Vnum         29023
-Material	7
-Room         17080
-Condition	250
-Size	75
-Cost         2001
-Values       10 10 0 0 0 0 32665
-Affect       -1 -1 4 29 0
-End
-
-#OBJECT
-Name         nodachi plastic~
-ShortDescr   plastic nodachi~
-Description  Plastic nodachi is here.~
-Vnum         29141
-Material	135
-Room         17094
-ExtraFlags   17565696&4
-Condition	450
-Cost         10499
-Values       0 9 121 0 0 1 32665
-End
-
-#OBJECT
-Name         pair of willow nipple rings of strength~
-ShortDescr   pair of willow nipple rings of strength~
-Vnum         29123
-Material	85
-Room         17080
-ExtraFlags   591872
-Condition	100
-Size	45
-Cost         45010
-Values       0 0 3 0 0 0 32665
-Affect       -1 -1 10 2 0
-Affect       -1 -1 11 1 0
-End
-
-#OBJECT
-Name         stone great mace of might~
-ShortDescr   stone great mace of might~
-Description  Stone great mace has been dropped here.~
-Vnum         29037
-Material	23
-Room         17094
-Condition	400
-Cost         30001
-Values       0 7 256 0 0 5 32665
+Name         titanium cart of durability~
+ShortDescr   titanium cart of durability~
+Vnum         29164
+Material	33
+Room         20179
+ExtraFlags   526400
+Condition	12500
+Cost         64099
+Values       351 0 1 0 0 0 10
 Affect       -1 -1 10 1 0
-Affect       -1 -1 25 5 0
 End
 
 #OBJECT
-Name         seaweed cape of damage~
-ShortDescr   seaweed cape of damage~
-Description  Seaweed cape has been left here.~
-Vnum         29052
-Material	36
-Room         17081
-Condition	50
-Size	56
-Cost         33004
-Values       5 5 0 0 0 0 32665
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 32 19 0
-End
-
-#OBJECT
-Name         glasses lead~
-ShortDescr   lead rimmed pair of glasses~
-Description  Lead rimmed pair of glasses~
-Vnum         29103
-Material	9
-Room         17080
-Condition	50
-Size	65
-Cost         401
-Values       5 5 0 0 0 0 32701
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         bone scuba gear of storms~
-ShortDescr   bone scuba gear of storms~
-Vnum         29127
-Material	41
-Room         17080
-ExtraFlags   526336
-Condition	1500
-Size	34
-Cost         512001
-Values       20 20 0 0 0 0 32701
-Affect       -1 -1 10 5 0
-Affect       -1 -1 1 34 0
-End
-
-#OBJECT
-Name         stone claw of darkness~
-ShortDescr   stone claw of darkness~
-Description  Stone claw is laying on the ground.~
-Vnum         29044
-Material	23
-Room         17094
-ExtraFlags   526340&4
-Condition	250
-Size	34
-Cost         7001
-Values       0 3 192 0 0 14 32701
-Affect       -1 -1 6 19 0&512
-End
-
-#OBJECT
-Name         plate mail iron~
-ShortDescr   suit of iron plate mail~
-Description  Suit of iron plate mail lays on the ground.~
-Vnum         29001
-Material	1
-Room         17080
-Condition	2000
-Size	68
-Cost         10002
-Values       50 50 0 0 0 0 32701
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         visor seashell~
-ShortDescr   seashell visor~
-Description  Seashell visor has been dropped here.~
-Vnum         29025
-Material	48
-Room         17080
-Condition	50
-Size	56
-Cost         5000
-Values       5 5 0 0 0 0 32753
-Affect       -1 -1 5 3 0
-End
-
-#OBJECT
-Name         rapier lead~
-ShortDescr   lead rapier~
-Vnum         29105
-Material	9
-Room         17094
-Condition	200
-Cost         1701
-Values       0 0 53 11 0 1 32753
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Count        2
-Name         wool sack of levitation~
-ShortDescr   wool sack of levitation~
-Description  Wool sack is laying here.~
-Vnum         29144
-Material	28
-Room         20193
-ExtraFlags   330752
-Condition	200
-Cost         10171
-Values       80 0 0 0 0 0 0
-End
-
-#OBJECT
-Name         copper chair of darkness~
-ShortDescr   copper chair of darkness~
-Description  Copper chair is sitting here.~
-Vnum         29069
-Material	7
-Room         20147
-ExtraFlags   526340
-Condition	2000
-Cost         1001
-Values       1 0 16 0 0 0 0
-Affect       -1 -1 4 29 0
-End
-
-#OBJECT
-Name         compound bow rename~
-ObjBy	Aasterinian~
-Vnum         29167
-Room         17014
-Weight       1
-Condition	51
-Mana        6
-Values       1 15 196 5 0 8 32530
-End
-
-#OBJECT
-Name         dish glass~
-ShortDescr   glass dish~
-Description  Glass dish is sitting here.~
-Vnum         29147
-Material	24
-Room         20184
-ExtraFlags   526368
-Condition	100
-Cost         450
-Values       40 0 0 0 33589 0 0
-End
-
-#OBJECT
-Name         buckler plastic~
-ShortDescr   plastic buckler~
-Description  Plastic buckler is laying on the ground.~
-Vnum         29026
-Material	135
-Room         17080
-ExtraFlags   9177088
-Condition	250
-Cost         1001
-Values       10 10 0 0 0 0 0
-End
-
-#OBJECT
-Name         lantern iron~
-ShortDescr   iron lantern~
-Description  Iron lantern is sitting here.~
-Vnum         29151
-Material	1
-Room         17084
-ExtraFlags   526337
-Condition	250
-Cost         1502
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         copper dragon scale cap of stealth~
-ShortDescr   copper dragon scale cap of stealth~
-Description  Copper dragon scale cap is laying here.~
-Vnum         29053
-Material	19
-Room         17081
-Condition	50
-Size	35
-Cost         3299
-Values       4 4 0 0 0 0 0
-Affect       -1 -1 8 27 0
-Affect       -1 -1 32768 26 0
-End
-
-#OBJECT
-Name         belt seaweed~
-ShortDescr   seaweed belt~
-Description  Seaweed belt is lying on the ground.~
-Vnum         29007
-Material	36
-Room         17081
-Condition	50
-Size	39
-Cost         1005
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-End
-
-#OBJECT
-Name         %s trident clay~
-ShortDescr   clay trident~
-Description  Three-pronged clay spear was dropped here.~
-Vnum         29091
-Material	45
-Room         17094
-Condition	500
-Cost         10011
-Values       0 9 124 0 0 12 0
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         shuriken  lead~
-ShortDescr   lead shuriken~
-Description  Lead shuriken has been dropped here~
-Vnum         28950
-Material	9
-Room         17094
-ExtraFlags   526336
-Condition	50
-Cost         1
-Values       0 0 74 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         pants seaweed~
-ShortDescr   pair of seaweed pants~
-Description  Pair of seaweed pants is lying here.~
-Vnum         28910
-Material	36
-Room         17081
-Condition	150
-Size	43
-Cost         2005
-Affect       -1 -1 -1 25 0
-End
-
-#OBJECT
-Name         tongue ring willow~
-ShortDescr   willow tongue ring~
-Vnum         29125
-Material	85
-Room         17080
-ExtraFlags   591872
-Condition	50
-Size	68
-Cost         34010
-Values       0 2 0 0 0 0 0
-Affect       -1 -1 10 2 0
-End
-
-#OBJECT
-Name         chainmail stone~
-ShortDescr   suit of stone chain mail~
-Description  Suit of stone chain mail lies on the ground.~
-Vnum         29000
-Material	23
-Room         17080
-ExtraFlags   526336
-Condition	400
-Size	46
-Cost         5001
-Values       20 20 0 0 0 0 0
-End
-
-#OBJECT
-Name         glasses iron~
-ShortDescr   iron rimmed pair of glasses~
-Description  Iron rimmed pair of glasses~
-Vnum         29103
-Material	1
-Room         17080
-Condition	50
-Size	71
-Cost         402
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         hooded wool cape of damage~
-ShortDescr   hooded wool cape of damage~
-Vnum         29101
-Material	28
-Room         17081
-ExtraFlags   329728
-Condition	150
-Size	53
-Cost         12001
-Values       3 3 0 0 0 0 0
-Affect       -1 -1 10 19 0
-End
-
-#OBJECT
-Name         knife lead~
-ShortDescr   lead knife~
-Description  Lead knife has been dropped here.~
-Vnum         29029
-Material	9
-Room         17094
-Condition	50
-Cost         501
-Values       0 3 107 0 0 2 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         hooded silk cape of sight~
-ShortDescr   hooded silk cape of sight~
-Vnum         29101
-Material	6
-Room         17081
-Condition	150
-Size	41
-Cost         51999
-Values       3 3 0 0 0 0 0
-Affect       -1 -1 10 2 0
-Affect       -1 -1 20 25 0
-End
-
-#OBJECT
-Name         stone greathelm of lightning~
-ShortDescr   stone greathelm of lightning~
-Description  Stone greathelm sits here.~
-Vnum         29005
-Material	23
-Room         17080
-Condition	150
-Size	36
-Cost         503002
-Values       10 10 0 0 0 0 0
-Affect       -1 -1 1 36 0
-End
-
-#OBJECT
-Name         set of clay manacles of might~
-ShortDescr   set of clay manacles of might~
-Description  A set of clay manacles lays on the ground.~
-Vnum         29086
-Material	45
-Room         17080
-Condition	250
-Size	56
-Cost         21510
-Values       10 10 0 0 0 0 0
-Affect       -1 -1 16 29 0
-Affect       -1 -1 21 1 0
-Affect       -1 -1 21 5 0
-End
-
-#OBJECT
-Name         silk slippers of dream~
-ShortDescr   silk slippers of dream~
-Vnum         29095
-Material	6
-Room         17081
-Condition	50
-Size	61
-Cost         532499
-Values       1 1 0 0 0 0 0
-Affect       -1 -1 10 2 0
-Affect       -1 -1 1 38 0
-End
-
-#OBJECT
-Count        3
-Name         pillow wool~
-ShortDescr   wool pillow~
-Description  Fluffy wool pillow is sitting here.~
-Vnum         28920
-Material	28
-Room         20147
-ExtraFlags   329728
-Condition	150
-Cost         501
-Values       1 1168 16 0 0 0 0
-End
-
-#OBJECT
-Name         desk lead~
-ShortDescr   lead desk~
-Description  Lead desk is sitting here.~
-Vnum         29076
-Material	9
-Room         20147
-ExtraFlags   526336
-Condition	5000
-Cost         2001
-Values       5 1170 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         silk bag of light~
-ShortDescr   silk bag of light~
-Description  Silk bag is laying on the ground.~
-Vnum         29073
-Material	6
-Room         20193
-ExtraFlags   264193
-Condition	250
-Cost         40201
-Values       100 0 0 0 0 0 0
-Affect       -1 -1 10 2 0
-End
-
-#OBJECT
-Name         gold coffin of light~
-ShortDescr   gold coffin of light~
-Description  Gold coffin lies here.~
-Vnum         28933
-Material	8
-Room         20147
-ExtraFlags   526337
-Condition	10000
-Size	78
-Cost         12499
-Values       0 2336 0 0 0 0 0
-Affect       -1 -1 10 25 0
-End
-
-#OBJECT
-Name         sofa tin~
-ShortDescr   tin sofa~
-Description  Tin sofa is sitting here.~
-Vnum         29143
-Material	21
-Room         20147
-Condition	6000
-Cost         1901
-Values       5 0 1168 0 0 0 0
-End
-
-#OBJECT
-Name         wool pillow of levitation~
-ShortDescr   wool pillow of levitation~
-Description  Fluffy wool pillow is sitting here.~
-Vnum         28920
-Material	28
-Room         20147
-ExtraFlags   330752
-Condition	150
-Cost         501
-Values       1 1168 16 0 0 0 0
-End
-
-#OBJECT
-Name         bottle crystal~
-ShortDescr   crystal bottle~
-Description  Crystal bottle is sitting here.~
-Vnum         29142
-Material	25
-Room         20184
-ExtraFlags   526336
-Condition	50
-Cost         40099
-Values       10 0 0 0 15369 0 0
-Affect       -1 -1 10 3 0
-End
-
-#OBJECT
-Name         seaweed sack of darkness~
-ShortDescr   seaweed sack of darkness~
-Description  Seaweed sack is laying here.~
-Vnum         29144
-Material	36
-Room         20193
-ExtraFlags   264196
-Condition	200
-Cost         10174
-Values       80 0 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-End
-
-#OBJECT
-Name         bucket lead~
-ShortDescr   lead bucket~
-Description  Lead bucket is sitting here.~
-Vnum         29148
+Name         tankard lead~
+ShortDescr   lead tankard~
+Description  Lead tankard is sitting here.~
+Vnum         28913
 Material	9
 Room         20184
-Condition	2000
-Cost         402
-Values       60 0 0 0 5148 0 0
+ExtraFlags   526336
+Condition	300
+Size	33
+Cost         152
+Values       25 0 0 0 438 0 10
 Affect       -1 -1 -1 25 0
 Affect       -1 -1 5 19 0
 End
 
 #OBJECT
-Name         crown iron~
-ShortDescr   iron crown~
-Description  Iron crown sits on the ground.~
-Vnum         28932
-Material	1
-Room         20047
-Condition	100
-Size	34
-Cost         5001
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         sack velvet~
-ShortDescr   velvet sack~
-Description  Velvet sack is laying here.~
-Vnum         29144
-Material	46
-Room         20193
-Condition	200
-Cost         50170
-Values       80 0 0 0 0 0 0
-Affect       -1 -1 50 13 0
-End
-
-#OBJECT
-Name         pack leaf~
-ShortDescr   leaf pack~
-Description  Leaf pack lies open on the ground.~
-Vnum         29062
-Material	3
-Room         20193
+Name         whip wool~
+ShortDescr   wool whip~
+Description  Wool whip lies coiled on the ground.~
+Vnum         29043
+Material	28
+Room         17094
 ExtraFlags   329728&4
 Condition	150
-Size	78
-Cost         1002
-Values       300 0 0 0 0 0 0
+Cost         1502
+Values       0 4 58 0 0 4 10
 End
 
 #OBJECT
-Name         pillow plastic~
-ShortDescr   plastic pillow~
-Description  Fluffy plastic pillow is sitting here.~
-Vnum         28920
-Material	135
-Room         20147
-ExtraFlags   788480
-Condition	150
-Cost         1001
-Values       1 1168 16 0 0 0 0
-End
-
-#OBJECT
-Name         gold dragon scale bag of darkness~
-ShortDescr   gold dragon scale bag of darkness~
-Description  Gold dragon scale bag is laying on the ground.~
-Vnum         29073
-Material	16
-Room         20193
-ExtraFlags   264196
-Condition	250
-Cost         13200
-Values       100 0 0 0 0 0 0
-Affect       -1 -1 262144 27 0
-End
-
-#OBJECT
-Name         stone rimmed pair of glasses of flight~
-ShortDescr   stone rimmed pair of glasses of flight~
-Description  Stone rimmed pair of glasses~
-Vnum         29103
-Material	23
-Room         17080
-Condition	50
-Size	58
-Cost         18401
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 18 2 524288
-End
-
-#OBJECT
-Name         orb iron~
-ShortDescr   iron orb~
-Description  Iron orb hovers in the air here.~
+Name         orb clay~
+ShortDescr   clay orb~
+Description  Clay orb hovers in the air here.~
 Vnum         28918
-Material	1
-Room         17084
+Material	45
+Room         20050
 ExtraFlags   526401&4
 Condition	100
-Cost         10002
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
+Cost         10009
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 16 29 0
 End
 
 #OBJECT
-Name         glass ring mail of ice~
-ShortDescr   glass ring mail of ice~
-Description  Suit of glass ring mail has been dropped here.~
-Vnum         29020
-Material	24
-Room         17080
-ExtraFlags   526368
-Condition	250
-Size	63
-Cost         502050
-Values       15 15 0 0 0 0 0
+Name         ivory wand of ice~
+ShortDescr   ivory wand of ice~
+Description  Ivory wand was dropped here.~
+Vnum         29066
+Material	30
+Room         20191
+Condition	50
+Cost         512001
+Values       0 8 36 0 0 6 10
+Affect       -1 -1 10 4 0
 Affect       -1 -1 1 35 0
 End
 
 #OBJECT
-Name         Kakuri knife lead~
-ShortDescr   lead kakuri knife~
-Description  Some god dropped a newly created kakuri knife here.~
-Vnum         29104
-Material	9
-Room         17094
-Condition	250
-Size	72
-Cost         1501
-Values       0 0 287 3 0 2 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         seaweed robe of pass door~
-ShortDescr   seaweed robe of pass door~
-Description  Seaweed robes are laying in a pile on the ground.~
-Vnum         29013
-Material	36
-Room         17081
-Condition	50
-Size	46
-Cost         10504
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 1048576 26 0
-End
-
-#OBJECT
-Name         silk candle of flight~
-ShortDescr   silk candle of flight~
-Description  Silk candle is sitting here.~
-Vnum         29158
-Material	6
-Room         17084
-ExtraFlags   264193
-Condition	50
-Cost         44101
-Affect       -1 -1 10 2 0
-Affect       -1 -1 14 2 524288
-End
-
-#OBJECT
-Name         orb crystal~
-ShortDescr   crystal orb~
-Description  Crystal orb hovers in the air here.~
-Vnum         28918
-Material	25
-Room         17084
-ExtraFlags   526401&4
-Condition	100
-Cost         50001
-Affect       -1 -1 10 3 0
-End
-
-#OBJECT
-Name         crystal girth of dream~
-ShortDescr   crystal girth of dream~
-Description  Crystal girth is laying on the ground.~
-Vnum         29010
-Material	25
-Room         17080
-Condition	250
-Size	36
-Cost         543001
-Values       10 10 0 0 0 0 0
-Affect       -1 -1 10 3 0
-Affect       -1 -1 1 38 0
-End
-
-#OBJECT
-Name         large shield plastic~
-ShortDescr   large plastic shield~
-Description  Large plastic shield has been left here.~
-Vnum         29028
-Material	135
-Room         17080
-ExtraFlags   9177088
-Condition	750
-Cost         2500
-Values       30 30 0 0 0 0 0
-End
-
-#OBJECT
-Name         pair of silk briefs of vigor~
-ShortDescr   pair of silk briefs of vigor~
-Description  Pair of silk briefs has been discarded here.~
-Vnum         29015
-Material	6
-Room         17081
-Condition	50
-Size	74
-Cost         33499
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 10 2 0
-Affect       -1 -1 3 5 0
-End
-
-#OBJECT
-Name         necklace bone~
-ShortDescr   bone necklace~
-Description  Bone necklace was dropped here.~
-Vnum         29061
-Material	41
-Room         17080
-Condition	50
-Size	36
-Cost         1100
-Affect       -1 -1 10 5 0
-End
-
-#OBJECT
-Name         pair of tin armlets of mind~
-ShortDescr   pair of tin armlets of mind~
-Description  A pair of tin armlets lies here.~
-Vnum         29121
-Material	21
-Room         17080
-ExtraFlags   526336
-Condition	200
-Size	78
-Cost         503102
-Values       5 10 0 0 0 0 0
-Affect       -1 -1 1 45 0
-End
-
-#OBJECT
-Name         stone long sword of halfling slaying~
-ShortDescr   stone long sword of halfling slaying~
-Description  Stone long sword has been dropped here.~
-Vnum         29033
+Name         stone great axe of mana~
+ShortDescr   stone great axe of mana~
+Description  Stone great axe has been dropped here.~
+Vnum         29040
 Material	23
-Room         17094
-ExtraFlags   526400&4
-Condition	350
-Cost         3001
-Values       12 7 170 0 0 1 566
-End
-
-#OBJECT
-Name         bone great mace of construct slaying~
-ShortDescr   bone great mace of construct slaying~
-Description  Bone great mace has been dropped here.~
-Vnum         29037
-Material	41
-Room         17094
-ExtraFlags   526400&4
-Condition	400
-Cost         5999
-Values       16 7 251 0 0 5 480
-Affect       -1 -1 10 5 0
-End
-
-#OBJECT
-Name         large shield lead~
-ShortDescr   large lead shield~
-Description  Large lead shield has been left here.~
-Vnum         29028
-Material	9
-Room         17080
-Condition	750
-Cost         2001
-Values       30 30 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         saddle iron~
-ShortDescr   iron saddle~
-Description  Iron saddle was dropped here.~
-Vnum         28917
-Material	1
-Room         17080
-ExtraFlags   526336
-Condition	1000
-Size	52
-Cost         5002
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         clay tankard of darkness~
-ShortDescr   clay tankard of darkness~
-Description  Clay tankard is sitting here.~
-Vnum         28913
-Material	45
-Room         20184
-ExtraFlags   526340
-Condition	300
-Size	72
-Cost         10160
-Values       25 0 0 0 2686 0 0
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         nipple rings stone~
-ShortDescr   pair of stone nipple rings~
-Vnum         29123
-Material	23
-Room         20047
-ExtraFlags   526336
-Condition	100
-Size	32
-Cost         1012
-Values       0 0 3 0 0 0 0
-End
-
-#OBJECT
-Name         dish stone~
-ShortDescr   stone dish~
-Description  Stone dish is sitting here.~
-Vnum         29147
-Material	23
-Room         20184
-Condition	100
-Cost         401
-Values       40 0 0 0 2565 0 0
-End
-
-#OBJECT
-Name         seashell wakizashi of human slaying~
-ShortDescr   seashell wakizashi of human slaying~
-Description  Seashell wakizashi has been dropped here.~
-Vnum         28900
-Material	48
 Room         20190
-ExtraFlags   526400
-Condition	300
-Cost         6500
-Values       6 10 281 0 0 1 156
-Affect       -1 -1 5 3 0
-End
-
-#OBJECT
-Name         trollhide bag of light~
-ShortDescr   trollhide bag of light~
-Description  Trollhide bag is laying on the ground.~
-Vnum         29073
-Material	69
-Room         20193
-ExtraFlags   264193
-Condition	250
-Cost         10399
-Values       100 0 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 1 0
-Affect       -1 -1 5 5 0
-End
-
-#OBJECT
-Name         ringmail iron~
-ShortDescr   iron ring mail~
-Description  Suit of iron ring mail has been dropped here.~
-Vnum         29020
-Material	1
-Room         20047
-Condition	250
-Size	72
-Cost         1002
-Values       15 15 0 0 0 0 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         chest lead~
-ShortDescr   lead chest~
-Description  Lead chest is sitting here.~
-Vnum         29074
-Material	9
-Room         20193
-Condition	2500
-Size	34
-Cost         1001
-Values       500 1 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         silk candle of light~
-ShortDescr   silk candle of light~
-Description  Silk candle is sitting here.~
-Vnum         29158
-Material	6
-Room         20050
-ExtraFlags   264193
-Condition	50
-Cost         58100
-Affect       -1 -1 10 2 0
-Affect       -1 -1 28 18 0&256
-End
-
-#OBJECT
-Name         silver chain of power~
-ShortDescr   silver chain of power~
-Description  Length of silver chain lies on the ground.~
-Vnum         28998
-Material	4
-Room         20047
-ExtraFlags   526400&4
-Condition	250
-Size	71
-Cost         75500
-Values       10 10 0 0 0 0 0
-Affect       -1 -1 11 3 0
-Affect       -1 -1 35 1 0
-End
-
-#OBJECT
-Name         bottle eternium~
-ShortDescr   eternium bottle~
-Description  Eternium bottle is sitting here.~
-Vnum         29142
-Material	50
-Room         20184
-ExtraFlags   526336
-Condition	50
-Cost         30100
-Values       10 0 0 0 2398 0 0
-Affect       -1 -1 20 17 0
-End
-
-#OBJECT
-Name         pouch wool~
-ShortDescr   wool pouch~
-Description  Wool pouch was dropped here.~
-Vnum         29072
-Material	28
-Room         20193
-ExtraFlags   329728
-Condition	50
-Size	74
-Cost         102
-Values       30 0 0 0 0 0 0
-End
-
-#OBJECT
-Name         wakizashi iron~
-ShortDescr   iron wakizashi~
-Description  Iron wakizashi has been dropped here.~
-Vnum         28900
-Material	1
-Room         20190
-ExtraFlags   526336
-Condition	300
-Cost         2502
-Values       0 10 235 0 0 1 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         stone armoire of loyalty~
-ShortDescr   stone armoire of loyalty~
-Description  Stone armoire is here.~
-Vnum         29153
-Material	23
-Room         20147
-ExtraFlags   526344
-Condition	10000
-Cost         5002
-Values       5 1170 0 0 0 0 0
-End
-
-#OBJECT
-Name         stone coffin of durability~
-ShortDescr   stone coffin of durability~
-Description  Stone coffin lies here.~
-Vnum         28933
-Material	23
-Room         20147
-ExtraFlags   526400
-Condition	10000
-Size	49
-Cost         53701
-Values       512 2336 0 0 0 0 0
-End
-
-#OBJECT
-Name         wool carpet of darkness~
-ShortDescr   wool carpet of darkness~
-Description  Wool carpet is spread out on the foor.~
-Vnum         29155
-Material	28
-Room         20147
-ExtraFlags   134547460
-Condition	1000
-Cost         2002
-Values       10 1168 1168 0 0 0 0
-End
-
-#OBJECT
-Name         anvil stone~
-ShortDescr   stone anvil~
-Description  Stone anvil is sitting here.~
-Vnum         28908
-Material	23
-Room         20147
-Condition	15000
-Size	41
-Cost         5001
-Values       0 16 0 0 0 0 0
-End
-
-#OBJECT
-Name         horseshoes shoes iron~
-ShortDescr   set of iron horseshoes~
-Description  Set of iron horseshoes are lying on the ground.~
-Vnum         29085
-Material	1
-Room         17080
-Condition	500
-Size	60
-Cost         1001
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         clay flute of time~
-ShortDescr   clay flute of time~
-Description  Clay flute was dropped here.~
-Vnum         29082
-Material	45
-Room         20192
-Condition	50
-Size	39
-Cost         501511
-Affect       -1 -1 16 29 0
-Affect       -1 -1 1 43 0
-End
-
-#OBJECT
-Name         copper bowl of darkness~
-ShortDescr   copper bowl of darkness~
-Description  Copper bowl is sitting here.~
-Vnum         29146
-Material	7
-Room         20184
-ExtraFlags   526340
-Condition	50
-Cost         10501
-Values       50 0 0 0 457 0 0
-Affect       -1 -1 4 29 0
-End
-
-#OBJECT
-Name         diaphragm leaf~
-ShortDescr   leaf diaphragm~
-Vnum         29114
-Material	3
-Room         20102
-ExtraFlags   329728
-Condition	50
-Size	45
-Cost         1
-Values       1 1 0 0 0 0 0
-End
-
-#OBJECT
-Name         pine long bow of shadows~
-ShortDescr   pine long bow of shadows~
-Description  Pine long bow has been left here.~
-Vnum         29047
-Material	87
-Room         20191
-ExtraFlags   591872
-Condition	250
-Cost         29000
-Values       0 15 196 5 0 8 0
-Affect       -1 -1 10 1 0
-Affect       -1 -1 65536 26 0
-End
-
-#OBJECT
-Name         silk kilt of lightning~
-ShortDescr   silk kilt of lightning~
-Description  Silk kilt was dropped here.~
-Vnum         28901
-Material	6
-Room         20102
-Condition	100
-Size	35
-Cost         532000
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 10 2 0
-Affect       -1 -1 1 36 0
-End
-
-#OBJECT
-Name         pair of stone nipple rings of protection~
-ShortDescr   pair of stone nipple rings of protection~
-Vnum         29123
-Material	23
-Room         20047
-ExtraFlags   8914944
-Condition	100
-Size	71
-Cost         33011
-Values       24 0 3 0 0 0 0
-Affect       -1 -1 8 17 0
-End
-
-#OBJECT
-Name         gun shotgun tin~
-ShortDescr   tin shotgun~
-Description  Tin shotgun is here.~
-Vnum         28939
-Material	21
-Room         20191
-ExtraFlags   17303552&4
 Condition	600
-Cost         18001
-Values       0 7 36 10 0 7 0
+Cost         16002
+Values       0 9 52 0 0 3 10
+Affect       -1 -1 11 3 0
 End
 
 #OBJECT
-Name         bucket plastic~
-ShortDescr   plastic bucket~
-Description  Plastic bucket is sitting here.~
-Vnum         29148
-Material	135
-Room         20184
-ExtraFlags   788480
-Condition	2000
-Cost         900
-Values       60 0 0 0 408 0 0
-End
-
-#OBJECT
-Name         bone wagon of levitation~
-ShortDescr   bone wagon of levitation~
-Vnum         29137
-Material	41
-Room         20179
-ExtraFlags   527360
-Condition	10000
-Cost         6001
-Values       0 0 1 0 0 0 0
-Affect       -1 -1 10 5 0
-End
-
-#OBJECT
-Name         hoopak iron~
-ShortDescr   iron hoopak~
-Description  Iron hoopak is laying on the ground.~
-Vnum         28921
-Material	1
-Room         20190
-Condition	200
-Cost         1002
-Values       10 5 284 0 0 10 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         set of clay manacles of stealth~
-ShortDescr   set of clay manacles of stealth~
-Description  A set of clay manacles lays on the ground.~
-Vnum         29086
-Material	45
+Name         stone ring mail of radiance~
+ShortDescr   stone ring mail of radiance~
+Description  Suit of stone ring mail has been dropped here.~
+Vnum         29020
+Material	23
 Room         20047
 Condition	250
-Size	56
-Cost         509
-Values       10 10 0 0 0 0 0
-Affect       -1 -1 16 29 0
-Affect       -1 -1 32768 26 0
-End
-
-#OBJECT
-Name         small stone shield of stealth~
-ShortDescr   small stone shield of stealth~
-Description  Small stone shield has been left here.~
-Vnum         29027
-Material	23
-Room         20047
-Condition	500
-Cost         1001
-Values       20 20 0 0 0 0 0
-Affect       -1 -1 32768 26 0
-End
-
-#OBJECT
-Name         stone dagger of demon slaying~
-ShortDescr   stone dagger of demon slaying~
-Description  Stone dagger has been dropped here.~
-Vnum         29030
-Material	23
-Room         20190
-ExtraFlags   526400&4
-Condition	100
-Cost         1002
-Values       2 4 299 0 0 2 342
-End
-
-#OBJECT
-Name         helm lead~
-ShortDescr   lead helm~
-Description  Lead helm sits on the ground.~
-Vnum         29004
-Material	9
-Room         20047
-Condition	50
-Size	70
-Cost         1001
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         willow anvil of levitation~
-ShortDescr   willow anvil of levitation~
-Description  Willow anvil is sitting here.~
-Vnum         28908
-Material	85
-Room         20147
-ExtraFlags   592896
-Condition	15000
-Size	66
-Cost         38001
-Values       0 16 0 0 0 0 0
-Affect       -1 -1 10 2 0
-End
-
-#OBJECT
-Name         table iron~
-ShortDescr   iron table~
-Description  Iron table is here.~
-Vnum         29152
-Material	1
-Room         20147
-ExtraFlags   526336
-Condition	3500
-Cost         1702
-Values       5 1170 0 0 0 0 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         suit of stone plate mail of radiance~
-ShortDescr   suit of stone plate mail of radiance~
-Description  Suit of stone plate mail lays on the ground.~
-Vnum         29001
-Material	23
-Room         20047
-Condition	2000
-Size	63
-Cost         511001
-Values       50 50 0 0 0 0 0
+Size	61
+Cost         502002
+Values       15 15 0 0 0 0 10
 Affect       -1 -1 1 46 0
 End
 
 #OBJECT
-Name         clay bugle of darkness~
-ShortDescr   clay bugle of darkness~
-Description  Clay bugle was left here.~
-Vnum         28914
-Material	45
-Room         20192
-ExtraFlags   526340
-Condition	600
-Cost         24011
-Affect       -1 -1 16 29 0
-Affect       -1 -1 21 19 0&512
-End
-
-#OBJECT
-Name         gold box of loyalty~
-ShortDescr   gold box of loyalty~
-Description  Gold box is sitting here.~
-Vnum         29075
-Material	8
-Room         20193
-ExtraFlags   526344
-Condition	500
-Size	44
-Cost         510500
-Values       100 1 0 0 0 0 0
-Affect       -1 -1 10 25 0
-End
-
-#OBJECT
-Name         black dragon scale candle of true sight~
-ShortDescr   black dragon scale candle of true sight~
-Description  Black dragon scale candle is sitting here.~
-Vnum         29158
-Material	14
-Room         20050
-ExtraFlags   264193
-Condition	50
-Cost         120101
-Affect       -1 -1 128 27 0
-Affect       -1 -1 17 25 4194304
-End
-
-#OBJECT
-Count        2
-Name         candle seaweed~
-ShortDescr   seaweed candle~
-Description  Seaweed candle is sitting here.~
-Vnum         29158
-Material	36
-Room         20050
-ExtraFlags   264193
-Condition	50
-Cost         104
-Affect       -1 -1 -1 25 0
-End
-
-#OBJECT
-Name         hooded leather cape of breathing~
-ShortDescr   hooded leather cape of breathing~
-Vnum         29101
+Name         kimono leather~
+ShortDescr   leather kimono~
+Description  Leather kimono is laying here.~
+Vnum         29107
 Material	2
 Room         20102
-Condition	150
-Size	60
-Cost         102001
-Values       3 3 0 0 0 0 0
-Affect       -1 -1 -2147483648 26 0
+Condition	100
+Size	72
+Cost         501
+Values       6 6 0 0 0 0 10
 End
 
 #OBJECT
-Name         crossbow lead~
-ShortDescr   lead crossbow~
-Description  Lead crossbow has been left here.~
-Vnum         29045
-Material	9
-Room         20191
-ExtraFlags   526336
+Name         mat plastic~
+ShortDescr   plastic mat~
+Description  Plastic mat is spread out on the floor.~
+Vnum         29071
+Material	135
+Room         20147
+ExtraFlags   135006208&4
 Condition	500
-Cost         20001
-Values       0 5 169 2 0 9 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
+Cost         1000
+Values       10 1168 16 0 0 0 10
 End
 
 #OBJECT
-Count        2
-Name         car clay~
-ShortDescr   clay car~
-Vnum         29129
+Name         copper pistol of dream~
+ShortDescr   copper pistol of dream~
+Description  Copper pistol is lying on the ground~
+Vnum         29049
+Material	7
+Room         20191
+ExtraFlags   526402
+Condition	50
+Cost         516001
+Values       0 7 36 10 0 7 10
+Affect       -1 -1 4 29 0
+Affect       -1 -1 1 38 0
+End
+
+#OBJECT
+Name         set of copper greaves of fire~
+ShortDescr   set of copper greaves of fire~
+Description  Set of copper greaves has been left here.~
+Vnum         29018
+Material	7
+Room         20047
+Condition	250
+Size	48
+Cost         504001
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 4 29 0
+Affect       -1 -1 1 32 0
+End
+
+#OBJECT
+Name         dwarfhide carpet of durability~
+ShortDescr   dwarfhide carpet of durability~
+Description  Dwarfhide carpet is spread out on the foor.~
+Vnum         29155
+Material	52
+Room         20147
+ExtraFlags   134481984
+Condition	1000
+Cost         97500
+Values       605 1168 1168 0 0 0 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         boomerang stone~
+ShortDescr   stone boomerang~
+Vnum         28958
+Material	23
+Room         20190
+ExtraFlags   1574912
+Condition	50
+Cost         10002
+Values       0 0 230 0 0 5 10
+End
+
+#OBJECT
+Name         clay bowl of holding~
+ShortDescr   clay bowl of holding~
+Description  Clay bowl is sitting here.~
+Vnum         29146
 Material	45
-Room         20179
-ExtraFlags   526336
-Condition	15000
-Cost         50010
-Values       0 0 1 0 0 0 0
+Room         20184
+ExtraFlags   526400
+Condition	50
+Cost         39809
+Values       393 0 0 0 416 0 10
 Affect       -1 -1 16 29 0
 End
 
 #OBJECT
-Name         cart stone~
-ShortDescr   stone cart~
-Vnum         29164
-Material	23
-Room         20179
-ExtraFlags   526336
-Condition	12500
-Cost         4001
-Values       0 0 1 0 0 0 0
-End
-
-#OBJECT
-Name         vambraces lead~
-ShortDescr   set of lead vambraces~
-Description  Set of lead vambraces has been left here.~
-Vnum         29023
-Material	9
+Name         %s wedding ring titanium~
+ShortDescr   titanium wedding ring~
+Description  Titanium wedding ring is lying here.~
+Vnum         29097
+Material	33
 Room         20047
-Condition	250
-Size	79
-Cost         2002
-Values       10 10 0 0 0 0 0
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
+Condition	50
+Size	40
+Cost         25100
+Values       1 1 0 0 0 0 10
+Affect       -1 -1 10 1 0
 End
 
 #OBJECT
-Name         tank iron~
-ShortDescr   iron tank~
-Vnum         29133
-Material	1
+Name         bone quarterstaff of ice~
+ShortDescr   bone quarterstaff of ice~
+Description  Bone staff was dropped here.~
+Vnum         29055
+Material	41
+Room         20190
+Condition	500
+Cost         502500
+Values       0 10 131 0 4 10 10
+Affect       -1 -1 10 5 0
+Affect       -1 -1 1 35 0
+End
+
+#OBJECT
+Name         copper airplane of darkness~
+ShortDescr   copper airplane of darkness~
+Vnum         29130
+Material	7
 Room         20179
-ExtraFlags   526336
-Condition	50000
-Cost         300001
-Values       0 0 833 0 0 0 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
+ExtraFlags   527364
+Condition	10000
+Cost         200001
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 4 29 0
 End
 
 #OBJECT
-Name         pair of wool panties of doom~
-ShortDescr   pair of wool panties of doom~
-Description  Pair of wool panties is laying on the floor.~
-Vnum         28902
-Material	28
+Name         gold dragon scale shirt of levitation~
+ShortDescr   gold dragon scale shirt of levitation~
+Description  Gold dragon scale shirt was dropped on the floor.~
+Vnum         28911
+Material	16
 Room         20102
-ExtraFlags   329728
+ExtraFlags   264192
 Condition	50
-Size	43
-Cost         1001
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 1024 26 0
+Size	40
+Cost         3101
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 262144 27 0
+Affect       -1 -1 524288 26 0
 End
 
 #OBJECT
-Name         bronze codpiece of breathing~
-ShortDescr   bronze codpiece of breathing~
-Description  Bronze loincloth was discarded here.~
-Vnum         28937
-Material	22
-Room         20047
-Condition	50
-Size	69
-Cost         100101
-Values       10 10 0 0 0 0 0
-Affect       -1 -1 1 17 0
-Affect       -1 -1 -2147483648 26 0
+Name         cherry raft of loyalty~
+ShortDescr   cherry raft of loyalty~
+Description  Cherry raft is sitting here.~
+Vnum         29165
+Material	91
+Room         20179
+ExtraFlags   591880
+Condition	2000
+Cost         52000
+Values       0 0 2 0 0 0 10
+Affect       -1 -1 300 12 0
 End
 
 #OBJECT
-Name         laser gun gold~
-ShortDescr   gold laser gun~
-Description  Gold laser gun was dropped here.~
-Vnum         29113
-Material	8
-Room         20191
-Condition	150
-Cost         17001
-Values       0 8 36 0 0 6 0
-Affect       -1 -1 10 25 0
+Name         bone cutlass of nightvision~
+ShortDescr   bone cutlass of nightvision~
+Description  Bone cutlass was dropped here~
+Vnum         29089
+Material	41
+Room         20190
+Condition	500
+Cost         4000
+Values       2 30 258 0 0 1 10
+Affect       -1 -1 10 5 0
+Affect       -1 -1 512 26 0
 End
 
 #OBJECT
-Name         throne plastic~
-ShortDescr   plastic throne~
-Description  Plastic throne is sitting here.~
-Vnum         28999
-Material	135
-Room         20147
-ExtraFlags   788480
-Condition	5500
-Cost         1500
-Values       0 16 0 0 0 0 0
-End
-
-#OBJECT
-Name         Kakuri knife iron~
-ShortDescr   iron kakuri knife~
-Description  Some god dropped a newly created kakuri knife here.~
-Vnum         29104
+Name         club iron~
+ShortDescr   iron club~
+Description  Iron club lies on the ground.~
+Vnum         28926
 Material	1
 Room         20190
-Condition	250
-Size	60
-Cost         1502
-Values       0 0 174 3 0 2 0
+Condition	50
+Cost         502
+Values       0 8 214 0 0 5 10
 Affect       -1 -1 -2 2 0
 Affect       -1 -1 5 17 0
 End
 
 #OBJECT
-Name         car silver~
-ShortDescr   silver car~
-Vnum         29129
-Material	4
-Room         20179
-ExtraFlags   526400
-Condition	15000
-Cost         90000
-Values       0 0 1 0 0 0 0
-End
-
-#OBJECT
-Name         staff steel~
-ShortDescr   steel staff~
-Description  Steel staff was dropped here.~
-Vnum         28955
+Name         bowl steel~
+ShortDescr   steel bowl~
+Description  Steel bowl is sitting here.~
+Vnum         29146
 Material	20
-Room         20190
-ExtraFlags   17303552&4
-Condition	250
+Room         20184
+Condition	50
 Cost         521
-Values       0 10 253 0 0 10 0
+Values       50 0 0 0 401 0 10
 Affect       -1 -1 -1 2 0
 Affect       -1 -1 10 17 0
 End
 
 #OBJECT
-Name         titanium broadsword of dwarf slaying~
-ShortDescr   titanium broadsword of dwarf slaying~
-Description  Titanium broadsword was dropped here.~
-Vnum         29063
-Material	33
-Room         20190
-ExtraFlags   526400&4
-Condition	400
-Cost         28500
-Values       7 7 38 0 0 1 613
-Affect       -1 -1 10 1 0
-End
-
-#OBJECT
-Name         bone cup of holding~
-ShortDescr   bone cup of holding~
-Description  Bone cup is sitting here.~
-Vnum         29079
-Material	41
-Room         20184
-ExtraFlags   526400
-Condition	50
-Size	49
-Cost         26950
-Values       259 0 0 0 160 0 0
-Affect       -1 -1 10 5 0
-End
-
-#OBJECT
-Name         crossbow clay~
-ShortDescr   clay crossbow~
-Description  Clay crossbow has been left here.~
-Vnum         29045
-Material	45
-Room         20191
-ExtraFlags   526336
-Condition	500
-Cost         20009
-Values       0 5 169 2 0 9 0
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         obsidian shovel of flight~
-ShortDescr   obsidian shovel of flight~
-Description  Obsidian shovel has been left here.~
-Vnum         29057
-Material	27
-Room         20182
-ExtraFlags   526340
-Condition	500
-Cost         39050
-Affect       -1 -1 10 19 0
-Affect       -1 -1 5 2 524288
-End
-
-#OBJECT
-Name         rat pelt slippers of darkness~
-ShortDescr   rat pelt slippers of darkness~
-Vnum         29095
-Material	136
-Room         20102
-ExtraFlags   264196
-Condition	50
-Size	30
-Cost         18501
-Values       1 1 0 0 0 0 0
-Affect       -1 -1 17 19 0&512
-End
-
-#OBJECT
-Name         lamp iron~
-ShortDescr   iron lamp~
-Description  Iron lamp is sitting here.~
-Vnum         29150
-Material	1
-Room         20050
-ExtraFlags   526337
-Condition	150
-Cost         2001
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         stone hoopak of the dragon~
-ShortDescr   stone hoopak of the dragon~
-Description  Stone hoopak is laying on the ground.~
-Vnum         28921
+Name         stone submarine of loyalty~
+ShortDescr   stone submarine of loyalty~
+Vnum         29128
 Material	23
-Room         20190
-Condition	200
-Cost         25001
-Values       10 5 199 0 0 10 0
-Affect       -1 -1 28 5 0&64
-Affect       -1 -1 24 1 0
-End
-
-#OBJECT
-Name         tin chariot of light~
-ShortDescr   tin chariot of light~
-Vnum         29163
-Material	21
 Room         20179
-ExtraFlags   526337
-Condition	5000
-Cost         10001
-Values       0 0 1 0 0 0 0
-End
-
-#OBJECT
-Count        2
-Name         bodysuit leather~
-ShortDescr   leather bodysuit~
-Description  Leather bodysuit is lying here.~
-Vnum         29099
-Material	2
-Room         20102
-Condition	250
-Size	32
-Cost         2001
-Values       0 3 0 0 0 0 0
-End
-
-#OBJECT
-Name         pair of wool leggings of light~
-ShortDescr   pair of wool leggings of light~
-Description  Pair of wool leggings is lying here.~
-Vnum         29016
-Material	28
-Room         20102
-ExtraFlags   329729
-Condition	50
-Size	53
-Cost         2002
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 1 18 0&256
-End
-
-#OBJECT
-Name         stone orb of doom~
-ShortDescr   stone orb of doom~
-Description  Stone orb hovers in the air here.~
-Vnum         28918
-Material	23
-Room         20050
-ExtraFlags   526401&4
-Condition	100
-Cost         10001
-Affect       -1 -1 1024 26 0
-End
-
-#OBJECT
-Name         bagpipes fur~
-ShortDescr   some fur bagpipes~
-Description  Some fur bagpipes lie here.~
-Vnum         28927
-Material	43
-Room         20192
-ExtraFlags   329728
-Condition	250
-Cost         3999
-End
-
-#OBJECT
-Name         bed stone~
-ShortDescr   stone bed~
-Description  Stone bed is sitting here.~
-Vnum         29078
-Material	23
-Room         20147
-Condition	10000
-Cost         2501
-Values       5 0 3472 0 0 0 0
-End
-
-#OBJECT
-Name         scuba gear plastic~
-ShortDescr   plastic scuba gear~
-Vnum         29127
-Material	135
-Room         20047
-ExtraFlags   788480
-Condition	1500
-Size	77
-Cost         10500
-Values       20 20 0 0 0 0 0
-End
-
-#OBJECT
-Name         platinum bed of loyalty~
-ShortDescr   platinum bed of loyalty~
-Description  Platinum bed is sitting here.~
-Vnum         29078
-Material	47
-Room         20147
 ExtraFlags   526344
-Condition	10000
-Cost         15500
-Values       5 0 3472 0 0 0 0
-Affect       -1 -1 10 31 0
+Condition	50000
+Cost         100001
+Values       0 0 134 0 0 0 10
 End
 
 #OBJECT
-Name         carriage plastic~
-ShortDescr   plastic carriage~
-Vnum         29162
-Material	135
-Room         20179
-ExtraFlags   788480
-Condition	15000
-Cost         5501
-Values       0 0 1 0 0 0 0
+Name         copper spade of pass door~
+ShortDescr   copper spade of pass door~
+Description  Copper spade has been left here.~
+Vnum         29098
+Material	7
+Room         20182
+Condition	150
+Cost         10051
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 4 29 0
+Affect       -1 -1 1048576 26 0
 End
 
 #OBJECT
-Name         stockings leaf~
-ShortDescr   some leaf stockings~
-Vnum         29120
-Material	3
+Name         veil ariel feather~
+ShortDescr   ariel feather veil~
+Description  Ariel feather veil lays on the ground here.~
+Vnum         29059
+Material	66
 Room         20102
-ExtraFlags   329728
 Condition	50
-Size	40
-Cost         1101
-Values       0 2 0 0 0 0 0
-End
-
-#OBJECT
-Name         tin knife of accuracy~
-ShortDescr   tin knife of accuracy~
-Description  Tin knife has been dropped here.~
-Vnum         29029
-Material	21
-Room         20190
-Condition	50
-Cost         19501
-Values       0 3 243 0 0 2 0
-Affect       -1 -1 19 18 0
-End
-
-#OBJECT
-Name         bugle lead~
-ShortDescr   lead bugle~
-Description  Lead bugle was left here.~
-Vnum         28914
-Material	9
-Room         20192
-ExtraFlags   526336
-Condition	600
-Cost         3001
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         silver scanner of agility~
-ShortDescr   silver scanner of agility~
-Vnum         29115
-Material	4
-Room         20195
-ExtraFlags   526400
-Condition	400
-Cost         61999
-Values       2 0 0 0 0 0 0
-Affect       -1 -1 12 2 0
-End
-
-#OBJECT
-Name         pine dagger of water~
-ShortDescr   pine dagger of water~
-Description  Pine dagger has been dropped here.~
-Vnum         29030
-Material	87
-Room         20190
-ExtraFlags   591872&4
-Condition	100
-Cost         622001
-Values       0 4 56 0 0 2 0
-Affect       -1 -1 10 1 0
-Affect       -1 -1 1 37 -2147483648
-End
-
-#OBJECT
-Name         boat clay~
-ShortDescr   clay boat~
-Description  Clay boat has been abandoned here.~
-Vnum         29067
-Material	45
-Room         20179
-Condition	5000
-Cost         10010
-Values       0 0 2 0 0 0 0
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         dai katana iron~
-ShortDescr   iron dai katana~
-Vnum         29124
-Material	1
-Room         20190
-ExtraFlags   17303552&4
-Condition	600
-Cost         2502
-Values       0 0 85 3 0 1 0
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         pair of wool sleeves of radiance~
-ShortDescr   pair of wool sleeves of radiance~
-Description  Pair of wool sleeves is crumpled on the ground.~
-Vnum         29022
-Material	28
-Room         20102
-ExtraFlags   329728
-Condition	50
-Size	64
-Cost         501501
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 1 46 0
-End
-
-#OBJECT
-Name         bone piano of sight~
-ShortDescr   bone piano of sight~
-Description  Bone piano is sitting here.~
-Vnum         28909
-Material	41
-Room         20192
-Condition	10000
-Cost         47000
-Affect       -1 -1 10 5 0
-Affect       -1 -1 36 25 0
-End
-
-#OBJECT
-Name         girth ivory~
-ShortDescr   ivory girth~
-Description  Ivory girth is laying on the ground.~
-Vnum         29010
-Material	30
-Room         20047
-Condition	250
-Size	77
-Cost         6001
-Values       10 10 0 0 0 0 0
+Size	35
+Cost         20500
+Values       2 2 0 0 0 0 10
 Affect       -1 -1 10 4 0
 End
 
 #OBJECT
-Name         wool robe of sound~
-ShortDescr   wool robe of sound~
-Description  Wool robes are laying in a pile on the ground.~
-Vnum         29013
-Material	28
-Room         20102
-ExtraFlags   329728
-Condition	50
-Size	47
-Cost         501501
-Values       5 5 0 0 0 0 0
-Affect       -1 -1 1 39 0
-End
-
-#OBJECT
-Name         bagpipes mrrshan fur~
-ShortDescr   some mrrshan fur bagpipes~
-Description  Some mrrshan fur bagpipes lie here.~
-Vnum         28927
-Material	68
-Room         20192
-Condition	250
-Cost         16999
-Affect       -1 -1 10 25 0
-End
-
-#OBJECT
-Name         armlet armlets stone~
-ShortDescr   pair of stone armlets~
-Description  A pair of stone armlets lies here.~
-Vnum         29121
-Material	23
-Room         20047
-ExtraFlags   526336
-Condition	200
-Size	41
-Cost         2101
-Values       5 10 0 0 0 0 0
-End
-
-#OBJECT
-Name         bone scanner of mana~
-ShortDescr   bone scanner of mana~
-Vnum         29115
-Material	41
-Room         20195
-ExtraFlags   526336
-Condition	400
-Cost         29001
-Values       2 0 0 0 0 0 0
-Affect       -1 -1 10 5 0
-Affect       -1 -1 18 3 0
-End
-
-#OBJECT
-Name         copper spaceship of levitation~
-ShortDescr   copper spaceship of levitation~
-Vnum         29131
-Material	7
+Name         luminite car of light~
+ShortDescr   luminite car of light~
+Vnum         29129
+Material	64
 Room         20179
-ExtraFlags   527361&4
-Condition	50000
-Cost         300002
-Values       0 0 152 0 0 0 0
-Affect       -1 -1 4 29 0
+ExtraFlags   526337
+Condition	15000
+Cost         130000
+Values       0 0 1 0 0 0 10
+Affect       -1 -1 10 18 0
+Affect       -1 -1 10 19 0
 End
 
 #OBJECT
-Name         silver knuckles of warding~
-ShortDescr   silver knuckles of warding~
-Vnum         29112
-Material	4
-Room         20190
-ExtraFlags   526400
-Condition	150
-Cost         542199
-Values       0 0 261 7 0 18 0
-Affect       -1 -1 1 48 0
-End
-
-#OBJECT
-Name         stone television of ice~
-ShortDescr   stone television of ice~
-Description  Stone television is sitting here.~
-Vnum         29168
-Material	23
-Room         20195
-ExtraFlags   526336
-Condition	1500
-Cost         511002
-Values       5 100 0 0 0 0 0
-Affect       -1 -1 1 35 0
-End
-
-#OBJECT
-Name         flail stone~
-ShortDescr   stone flail~
-Description  Stone flail is laying here.~
-Vnum         28936
-Material	23
-Room         20190
+Name         crystal shovel of the dragon~
+ShortDescr   crystal shovel of the dragon~
+Description  Crystal shovel has been left here.~
+Vnum         29057
+Material	25
+Room         20182
 Condition	500
-Cost         1001
-Values       0 5 127 0 0 4 0
+Cost         67049
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 10 3 0
+Affect       -1 -1 17 5 0&64
+Affect       -1 -1 27 1 0
 End
 
 #OBJECT
-Name         visor lead~
-ShortDescr   lead visor~
-Description  Lead visor has been dropped here.~
-Vnum         29025
-Material	9
-Room         20047
+Name         seaweed turban of sight~
+ShortDescr   seaweed turban of sight~
+Description  Seaweed turban was discarded here.~
+Vnum         29084
+Material	36
+Room         20102
 Condition	50
-Size	31
-Cost         1001
-Values       5 5 0 0 0 0 0
+Size	45
+Cost         32104
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 32 25 0
+End
+
+#OBJECT
+Name         tank tin~
+ShortDescr   tin tank~
+Vnum         29133
+Material	21
+Room         20179
+ExtraFlags   526336
+Condition	50000
+Cost         300001
+Values       0 0 833 0 0 0 10
+End
+
+#OBJECT
+Name         maple staff of demon slaying~
+ShortDescr   maple staff of demon slaying~
+Description  Maple staff was dropped here.~
+Vnum         28955
+Material	90
+Room         20190
+ExtraFlags   17369152&4
+Condition	250
+Cost         5501
+Values       2 10 159 0 0 10 785
+Affect       -1 -1 10 31 0
+End
+
+#OBJECT
+Name         tin snowmobile of light~
+ShortDescr   tin snowmobile of light~
+Vnum         29135
+Material	21
+Room         20179
+ExtraFlags   526337
+Condition	5000
+Cost         200002
+Values       0 0 513 0 0 0 10
+End
+
+#OBJECT
+Name         buckler stone~
+ShortDescr   stone buckler~
+Description  Stone buckler is laying on the ground.~
+Vnum         29026
+Material	23
+Room         20047
+Condition	250
+Cost         501
+Values       10 10 0 0 0 0 10
+End
+
+#OBJECT
+Name         cape velvet~
+ShortDescr   velvet cape~
+Description  Velvet cape has been left here.~
+Vnum         29052
+Material	46
+Room         20102
+Condition	50
+Size	61
+Cost         51000
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 50 13 0
+End
+
+#OBJECT
+Name         sofa bone~
+ShortDescr   bone sofa~
+Description  Bone sofa is sitting here.~
+Vnum         29143
+Material	41
+Room         20147
+Condition	6000
+Cost         2901
+Values       5 0 1168 0 0 0 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         torch oak~
+ShortDescr   oak torch~
+Description  Oak torch is sitting here.~
+Vnum         29157
+Material	84
+Room         20050
+ExtraFlags   591873
+Condition	150
+Cost         30500
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         rifle lead~
+ShortDescr   lead rifle~
+Description  Lead rifle is here.~
+Vnum         28938
+Material	9
+Room         20191
+ExtraFlags   17303552&4
+Condition	450
+Cost         20001
+Values       0 7 36 10 0 7 10
 Affect       -1 -1 -1 25 0
 Affect       -1 -1 5 19 0
 End
 
 #OBJECT
-Name         codpiece copper~
-ShortDescr   copper codpiece~
-Description  Copper loincloth was discarded here.~
-Vnum         28937
+Name         hand axe bronze~
+ShortDescr   bronze hand axe~
+Description  Bronze hand axe has been dropped here.~
+Vnum         29038
+Material	22
+Room         20190
+Condition	250
+Cost         1001
+Values       0 9 151 0 0 3 10
+Affect       -1 -1 1 17 0
+End
+
+#OBJECT
+Name         copper boat of light~
+ShortDescr   copper boat of light~
+Description  Copper boat has been abandoned here.~
+Vnum         29067
 Material	7
-Room         20047
-Condition	50
-Size	37
-Cost         102
-Values       10 10 0 0 0 0 -668652800
+Room         20179
+ExtraFlags   526337
+Condition	5000
+Cost         10001
+Values       0 0 2 0 0 0 10
 Affect       -1 -1 4 29 0
 End
 
 #OBJECT
-Name         bracelet bracelets plastic~
-ShortDescr   pair of plastic bracelets~
-Description  Plastic bracelet is laying here.~
-Vnum         29054
-Material	135
-Room         20047
-ExtraFlags   788480
+Name         bone spade of lightning~
+ShortDescr   bone spade of lightning~
+Description  Bone spade has been left here.~
+Vnum         29098
+Material	41
+Room         20182
+Condition	150
+Cost         502050
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 10 5 0
+Affect       -1 -1 1 36 0
+End
+
+#OBJECT
+Name         shirt elfskin~
+ShortDescr   elfskin shirt~
+Description  Elfskin shirt was dropped on the floor.~
+Vnum         28911
+Material	51
+Room         20102
+ExtraFlags   264192
 Condition	50
-Size	33
-Cost         6500
-Values       0 0 0 0 0 0 -668652800
+Size	30
+Cost         30101
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 10 2 0
 End
 
 #OBJECT
-Name         tin submarine of loyalty~
-ShortDescr   tin submarine of loyalty~
-Vnum         29128
-Material	21
-Room         20179
-ExtraFlags   526344
-Condition	50000
-Cost         100002
-Values       0 0 134 0 0 0 -668652800
-End
-
-#OBJECT
-Name         pair of clay earrings of warding~
-ShortDescr   pair of clay earrings of warding~
-Description  Pair of clay earrings have been dropped here.~
-Vnum         29060
+Name         clay television of will named Kerzutuf~
+ShortDescr   clay television of will named Kerzutuf~
+Description  Clay television is sitting here.~
+Vnum         29168
 Material	45
-Room         20047
-Condition	50
-Size	65
-Cost         501111
-Values       0 0 0 0 0 0 -668652800
-Affect       -1 -1 16 29 0
-Affect       -1 -1 1 48 0
-End
-
-#OBJECT
-Name         helm glass~
-ShortDescr   glass helm~
-Description  Glass helm sits on the ground.~
-Vnum         29004
-Material	24
-Room         20047
-ExtraFlags   526368
-Condition	50
-Size	64
-Cost         1049
-Values       5 5 0 0 0 0 -668652800
+Room         20195
+ExtraFlags   526336&2
+Condition	1500
+Cost         45011
+Values       5 100 0 0 0 0 10
+Affect       -1 -1 46 29 0
+Affect       -1 -1 35 4 0
 End
 
 #OBJECT
@@ -2948,254 +980,25 @@ Material	1
 Room         20190
 Condition	500
 Cost         1001
-Values       0 5 221 0 0 4 -668652800
+Values       0 5 195 0 0 4 10
 Affect       -1 -1 -2 2 0
 Affect       -1 -1 5 17 0
 End
 
 #OBJECT
-Count        3
-Name         mech iron~
-ShortDescr   iron mech~
-Vnum         29136
-Material	1
-Room         20179
-ExtraFlags   526336
-Condition	25000
-Cost         1000001
-Values       0 0 993 0 0 0 0
-End
-
-#OBJECT
-Name         compound bow willow~
-ShortDescr   willow compound bow~
-Description  Willow compound bow is here.~
-Vnum         29167
-Material	85
-Room         20191
-ExtraFlags   591872
-Condition	150
-Cost         63001
-Values       0 15 196 5 0 8 -668652800
-Affect       -1 -1 10 2 0
-End
-
-#OBJECT
-Name         visor steel~
-ShortDescr   steel visor~
-Description  Steel visor has been dropped here.~
-Vnum         29025
-Material	20
-Room         20047
-Condition	50
-Cost         1019
-Values       5 5 0 0 0 0 0
-End
-
-#OBJECT
-Name         eternium knife of might~
-ShortDescr   eternium knife of might~
-Description  Eternium knife has been dropped here.~
-Vnum         29029
-Material	50
-Room         20190
-Condition	50
-Cost         43499
-Values       0 3 122 0 0 2 -668652800
-Affect       -1 -1 20 17 0
-Affect       -1 -1 36 1 0
-Affect       -1 -1 13 5 0
-End
-
-#OBJECT
-Name         chest clay~
-ShortDescr   clay chest~
-Description  Clay chest is sitting here.~
-Vnum         29074
-Material	45
-Room         20193
-Condition	2500
-Size	60
-Cost         1010
-Values       500 1 0 0 0 0 -668652800
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         halberd iron~
-ShortDescr   iron halberd~
-Description  Iron halberd is laying here.~
-Vnum         29042
-Material	1
-Room         20190
-Condition	1150
-Cost         10001
-Values       0 10 172 0 0 11 -668652800
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         bronze crossbow of mana~
-ShortDescr   bronze crossbow of mana~
-Description  Bronze crossbow has been left here.~
-Vnum         29045
+Name         bronze chain of seeking~
+ShortDescr   bronze chain of seeking~
+Description  Length of bronze chain lies on the ground.~
+Vnum         28998
 Material	22
-Room         20191
-ExtraFlags   526336
-Condition	500
-Cost         49001
-Values       0 5 169 2 0 9 -668652800
-Affect       -1 -1 1 17 0
-Affect       -1 -1 29 3 0
-End
-
-#OBJECT
-Name         set of stone manacles of sight~
-ShortDescr   set of stone manacles of sight~
-Description  A set of stone manacles lays on the ground.~
-Vnum         29086
-Material	23
 Room         20047
+ExtraFlags   526336&4
 Condition	250
-Size	63
-Cost         10501
-Values       10 10 0 0 0 0 -668652800
-Affect       -1 -1 10 25 0
-End
-
-#OBJECT
-Name         hand axe stone~
-ShortDescr   stone hand axe~
-Description  Stone hand axe has been dropped here.~
-Vnum         29038
-Material	23
-Room         20190
-Condition	250
-Cost         1001
-Values       0 9 45 0 0 3 -668652800
-End
-
-#OBJECT
-Name         lantern silver~
-ShortDescr   silver lantern~
-Description  Silver lantern is sitting here.~
-Vnum         29151
-Material	4
-Room         20050
-ExtraFlags   526401
-Condition	250
-Cost         41500
-Values       0 0 0 0 0 0 -668652800
-End
-
-#OBJECT
-Name         clay shovel of levitation~
-ShortDescr   clay shovel of levitation~
-Description  Clay shovel has been left here.~
-Vnum         29057
-Material	45
-Room         20182
-Condition	500
-Cost         60
-Values       0 0 0 0 0 0 -668652800
-Affect       -1 -1 16 29 0
-Affect       -1 -1 524288 26 0
-End
-
-#OBJECT
-Count        2
-Name         snowmobile iron~
-ShortDescr   iron snowmobile~
-Vnum         29135
-Material	1
-Room         20179
-ExtraFlags   526336
-Condition	5000
-Cost         200002
-Values       0 0 513 0 0 0 -668652800
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         lute clay~
-ShortDescr   clay lute~
-Description  Clay lute was left here.~
-Vnum         28907
-Material	45
-Room         20192
-Condition	400
-Cost         1010
-Values       0 0 0 0 0 0 -668652800
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         gloves wool~
-ShortDescr   pair of wool gloves~
-Description  Pair of wool gloves is laying here.~
-Vnum         29011
-Material	28
-Room         20102
-ExtraFlags   329728
-Condition	50
-Cost         501
-Values       5 5 0 0 0 0 0
-End
-
-#OBJECT
-Name         boomerang iron~
-ShortDescr   iron boomerang~
-Vnum         28958
-Material	1
-Room         20190
-ExtraFlags   1574912
-Condition	50
-Cost         10001
-Values       0 0 218 0 0 5 -668652800
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
-End
-
-#OBJECT
-Name         skirt elfskin~
-ShortDescr   elfskin skirt~
-Description  Elfskin skirt was dropped here.~
-Vnum         28903
-Material	51
-Room         17081
-Condition	150
-Size	71
-Cost         32000
-Values       0 0 0 0 0 0 -668652800
-Affect       -1 -1 10 2 0
-End
-
-#OBJECT
-Name         gun shotgun stone~
-ShortDescr   stone shotgun~
-Description  Stone shotgun is here.~
-Vnum         28939
-Material	23
-Room         17014
-ExtraFlags   17303552&4
-Condition	600
-Cost         18001
-Values       0 7 36 10 0 7 -668652800
-End
-
-#OBJECT
-Count        2
-Name         lute stone~
-ShortDescr   stone lute~
-Description  Stone lute was left here.~
-Vnum         28907
-Material	23
-Room         20192
-Condition	400
-Cost         1001
-Values       0 0 0 0 0 0 -668652800
+Size	74
+Cost         501501
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 1 17 0
+Affect       -1 -1 1 47 0
 End
 
 #OBJECT
@@ -3207,1154 +1010,942 @@ Material	28
 Room         20102
 ExtraFlags   329728
 Condition	150
-Size	72
-Cost         3001
-Values       7 7 0 0 0 0 -668652800
+Size	36
+Cost         3002
+Values       7 7 0 0 0 0 10
 End
 
 #OBJECT
-Name         silver dagger of angel slaying~
-ShortDescr   silver dagger of angel slaying~
-Description  Silver dagger has been dropped here.~
-Vnum         29030
-Material	4
-Room         20190
-ExtraFlags   526400&4
-Condition	100
-Cost         40999
-Values       17 4 97 0 0 2 1328
+Name         bone mech of light~
+ShortDescr   bone mech of light~
+Vnum         29136
+Material	41
+Room         20179
+ExtraFlags   526337
+Condition	25000
+Cost         1001000
+Values       0 0 993 0 0 0 10
+Affect       -1 -1 10 5 0
 End
 
 #OBJECT
-Name         club silver~
-ShortDescr   silver club~
-Description  Silver club lies on the ground.~
-Vnum         28926
-Material	4
-Room         20190
-ExtraFlags   526400
-Condition	50
-Cost         40501
-Values       0 8 256 0 0 5 -668652800
-End
-
-#OBJECT
-Name         clay flail of true sight~
-ShortDescr   clay flail of true sight~
-Description  Clay flail is laying here.~
-Vnum         28936
+Name         submarine clay~
+ShortDescr   clay submarine~
+Vnum         29128
 Material	45
-Room         20190
-Condition	500
-Cost         111009
-Values       0 5 62 0 0 4 -668652800
+Room         20179
+ExtraFlags   526336
+Condition	50000
+Cost         100010
+Values       0 0 134 0 0 0 10
 Affect       -1 -1 16 29 0
-Affect       -1 -1 10 25 4194304
 End
 
 #OBJECT
-Name         nodachi stone~
-ShortDescr   stone nodachi~
-Description  Stone nodachi is here.~
-Vnum         29141
-Material	23
+Name         anklet anklets lead~
+ShortDescr   pair of lead anklets~
+Description  Lead anklet has been dropped here.~
+Vnum         29021
+Material	9
+Room         20047
+Condition	50
+Size	76
+Cost         1001
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Name         set of bone manacles of warding named Etith~
+ShortDescr   set of bone manacles of warding named Etith~
+Description  A set of bone manacles lays on the ground.~
+Vnum         29086
+Material	41
+Room         20047
+ExtraFlags   526336&2
+Condition	250
+Size	79
+Cost         527500
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 27 5 0
+Affect       -1 -1 26 48 0
+End
+
+#OBJECT
+Name         oak hand axe of darkness~
+ShortDescr   oak hand axe of darkness~
+Description  Oak hand axe has been dropped here.~
+Vnum         29038
+Material	84
 Room         20190
-Condition	450
-Cost         10001
-Values       0 9 126 0 0 1 -668652800
+ExtraFlags   591876&4
+Condition	250
+Cost         43001
+Values       0 9 31 0 0 3 10
+Affect       -1 -1 10 5 0
+Affect       -1 -1 12 19 0&512
 End
 
 #OBJECT
-Name         sash elfskin~
-ShortDescr   elfskin sash~
-Description  Elfskin sash was left here.~
-Vnum         28916
+Name         club lead~
+ShortDescr   lead club~
+Description  Lead club lies on the ground.~
+Vnum         28926
+Material	9
+Room         20190
+Condition	50
+Cost         501
+Values       0 8 242 0 0 5 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Name         humanskin condom of water~
+ShortDescr   humanskin condom of water~
+Description  Used humanskin condom has been discarded here.~
+Vnum         29093
+Material	57
+Room         20102
+Condition	50
+Size	40
+Cost         633101
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 10 3 0
+Affect       -1 -1 1 37 -2147483648
+End
+
+#OBJECT
+Name         cherry harp of doom~
+ShortDescr   cherry harp of doom~
+Description  Cherry harp is sitting on the floor.~
+Vnum         29081
+Material	91
+Room         20192
+ExtraFlags   591872
+Condition	250
+Cost         51999
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 300 12 0
+Affect       -1 -1 1024 26 0
+End
+
+#OBJECT
+Name         trenchcoat elfskin~
+ShortDescr   elfskin trenchcoat~
+Vnum         28953
 Material	51
 Room         20102
-ExtraFlags   264192
-Condition	100
-Size	58
+Condition	500
+Size	61
 Cost         31000
-Values       5 5 0 0 0 0 -668652800
+Values       10 10 0 0 0 0 10
 Affect       -1 -1 10 2 0
 End
 
 #OBJECT
-Name         shovel clay~
-ShortDescr   clay shovel~
-Description  Clay shovel has been left here.~
-Vnum         29057
-Material	45
-Room         20182
-Condition	500
-Cost         59
-Values       0 0 0 0 0 0 -668652800
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         rifle glass~
-ShortDescr   glass rifle~
-Description  Glass rifle is here.~
-Vnum         28938
-Material	24
-Room         20191
-ExtraFlags   17303584&4
-Condition	450
-Cost         20049
-Values       0 7 36 10 0 7 -668652800
-End
-
-#OBJECT
-Name         great sword greatsword stone~
-ShortDescr   stone great sword~
-Description  Stone great sword has been dropped here.~
-Vnum         29035
-Material	23
-Room         20190
-Condition	500
-Cost         5002
-Values       0 9 255 0 0 1 -624194816
-End
-
-#OBJECT
-Name         horseshoes shoes plastic~
-ShortDescr   set of plastic horseshoes~
-Description  Set of plastic horseshoes are lying on the ground.~
-Vnum         29085
-Material	135
-Room         20047
-ExtraFlags   788480
-Condition	500
-Size	62
-Cost         1500
-Values       0 0 0 0 0 0 -624194816
-End
-
-#OBJECT
-Name         trollhide condom of seeking~
-ShortDescr   trollhide condom of seeking~
-Description  Used trollhide condom has been discarded here.~
-Vnum         29093
-Material	69
-Room         20102
-Condition	50
-Size	41
-Cost         501300
-Values       10 10 0 0 0 0 -624194816
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 1 0
-Affect       -1 -1 5 5 0
-Affect       -1 -1 1 47 0
-End
-
-#OBJECT
-Name         submarine stone~
-ShortDescr   stone submarine~
-Vnum         29128
-Material	23
-Room         20179
-ExtraFlags   526336
-Condition	50000
-Cost         100002
-Values       0 0 134 0 0 0 -624194816
-End
-
-#OBJECT
-Name         epee stone~
-ShortDescr   stone epee~
-Description  Stone epee is here.~
-Vnum         29140
-Material	23
-Room         20190
-Condition	150
-Cost         5001
-Values       0 0 144 11 0 1 -624194816
-End
-
-#OBJECT
-Name         tin piano of shadows~
-ShortDescr   tin piano of shadows~
-Description  Tin piano is sitting here.~
-Vnum         28909
-Material	21
-Room         20192
-Condition	10000
-Cost         10001
-Values       0 0 0 0 0 0 -624194816
-Affect       -1 -1 65536 26 0
-End
-
-#OBJECT
-Name         stone tank of light~
-ShortDescr   stone tank of light~
-Vnum         29133
-Material	23
-Room         20179
-ExtraFlags   526337
-Condition	50000
-Cost         300002
-Values       0 0 833 0 0 0 -624194816
-End
-
-#OBJECT
-Name         cherry torch of fire~
-ShortDescr   cherry torch of fire~
-Description  Cherry torch is sitting here.~
-Vnum         29157
-Material	91
-Room         20050
-ExtraFlags   591873
-Condition	150
-Cost         551501
-Values       0 0 0 0 0 0 -624194816
-Affect       -1 -1 300 12 0
-Affect       -1 -1 1 32 0
-End
-
-#OBJECT
-Name         oak torch of seeking~
-ShortDescr   oak torch of seeking~
-Description  Oak torch is sitting here.~
-Vnum         29157
-Material	84
-Room         20050
-ExtraFlags   591873
-Condition	150
-Cost         531500
-Values       0 0 0 0 0 0 -624194816
-Affect       -1 -1 10 5 0
-Affect       -1 -1 1 47 0
-End
-
-#OBJECT
-Name         pair of wool sleeves of shadows~
-ShortDescr   pair of wool sleeves of shadows~
-Description  Pair of wool sleeves is crumpled on the ground.~
-Vnum         29022
+Name         bodysuit wool~
+ShortDescr   wool bodysuit~
+Description  Wool bodysuit is lying here.~
+Vnum         29099
 Material	28
 Room         20102
 ExtraFlags   329728
-Condition	50
-Size	40
-Cost         501
-Values       5 5 0 0 0 0 -624194816
-Affect       -1 -1 65536 26 0
+Condition	250
+Size	45
+Cost         2002
+Values       0 3 0 0 0 0 10
 End
 
 #OBJECT
-Name         tent seaweed~
-ShortDescr   seaweed tent~
+Name         silver greathelm of draining~
+ShortDescr   silver greathelm of draining~
+Description  Silver greathelm sits here.~
+Vnum         29005
+Material	4
+Room         20047
+ExtraFlags   526400
+Condition	150
+Size	58
+Cost         543000
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 1 41 0
+End
+
+#OBJECT
+Name         mithril lute of stealth~
+ShortDescr   mithril lute of stealth~
+Description  Mithril lute was left here.~
+Vnum         28907
+Material	5
+Room         20192
+Condition	400
+Cost         101001
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 10 18 0
+Affect       -1 -1 32768 26 0
+End
+
+#OBJECT
+Name         seaweed tent of levitation~
+ShortDescr   seaweed tent of levitation~
 Vnum         29138
 Material	36
 Room         20179
-ExtraFlags   264192
+ExtraFlags   265216
 Condition	2000
 Cost         2005
-Values       0 0 0 0 0 0 -624194816
+Values       0 0 0 0 0 0 10
 Affect       -1 -1 -1 25 0
 End
 
 #OBJECT
-Name         cape silk~
-ShortDescr   silk cape~
-Description  Silk cape has been left here.~
-Vnum         29052
-Material	6
+Name         harpy feather hat of lightning~
+ShortDescr   harpy feather hat of lightning~
+Vnum         28952
+Material	67
 Room         20102
-Condition	50
-Size	41
-Cost         31000
-Values       5 5 0 0 0 0 -624194816
-Affect       -1 -1 10 2 0
+ExtraFlags   264192
+Condition	150
+Size	67
+Cost         501100
+Values       4 4 0 0 0 0 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 2 0
+Affect       -1 -1 1 36 0
 End
 
 #OBJECT
-Name         rat pelt collar of damage~
-ShortDescr   rat pelt collar of damage~
-Description  Rat pelt collar has been left here.~
-Vnum         29019
-Material	136
+Name         bracer bracers leaf~
+ShortDescr   pair of leaf bracers~
+Description  Leaf bracer lies on the ground.~
+Vnum         29006
+Material	3
 Room         20102
-Condition	100
-Size	49
-Cost         6101
-Values       5 5 0 0 0 0 -624194816
-Affect       -1 -1 6 19 0
-End
-
-#OBJECT
-Name         stone pistol of protection~
-ShortDescr   stone pistol of protection~
-Description  Stone pistol is lying on the ground~
-Vnum         29049
-Material	23
-Room         20191
-ExtraFlags   8915010
+ExtraFlags   329728&4
 Condition	50
-Cost         42001
-Values       0 7 36 10 0 7 -624194816
-Affect       -1 -1 27 17 0
+Size	74
+Cost         501
+Values       5 5 0 0 0 0 10
 End
 
 #OBJECT
-Name         stone shotgun of loyalty~
-ShortDescr   stone shotgun of loyalty~
-Description  Stone shotgun is here.~
-Vnum         28939
-Material	23
-Room         20191
-ExtraFlags   17303560&4
-Condition	600
-Cost         36001
-Values       0 7 36 10 0 7 -624194816
-Affect       -1 -1 18 4 0
-End
-
-#OBJECT
-Name         pair of silk leggings of sight~
-ShortDescr   pair of silk leggings of sight~
-Description  Pair of silk leggings is lying here.~
-Vnum         29016
-Material	6
-Room         20102
-Condition	50
-Size	63
-Cost         61999
-Values       5 5 0 0 0 0 -624194816
-Affect       -1 -1 10 2 0
-Affect       -1 -1 31 25 0
-End
-
-#OBJECT
-Name         copper piano of thievery~
-ShortDescr   copper piano of thievery~
-Description  Copper piano is sitting here.~
-Vnum         28909
-Material	7
+Name         lute plastic~
+ShortDescr   plastic lute~
+Description  Plastic lute was left here.~
+Vnum         28907
+Material	135
 Room         20192
-Condition	10000
-Cost         26001
-Values       0 0 0 0 0 0 -624194816
-Affect       -1 -1 4 29 0
-Affect       -1 -1 3 25 0
-Affect       -1 -1 16 2 0
+ExtraFlags   788480
+Condition	400
+Cost         1501
+Values       0 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         submarine lead~
-ShortDescr   lead submarine~
-Vnum         29128
+Name         stone bowl of levitation~
+ShortDescr   stone bowl of levitation~
+Description  Stone bowl is sitting here.~
+Vnum         29146
+Material	23
+Room         20184
+ExtraFlags   527360
+Condition	50
+Cost         10501
+Values       50 0 0 0 353 0 10
+End
+
+#OBJECT
+Name         mech lead~
+ShortDescr   lead mech~
+Vnum         29136
 Material	9
 Room         20179
 ExtraFlags   526336
-Condition	50000
-Cost         100001
-Values       0 0 134 0 0 0 -624194816
+Condition	25000
+Cost         1000001
+Values       0 0 993 0 0 0 10
 Affect       -1 -1 -1 25 0
 Affect       -1 -1 5 19 0
 End
 
 #OBJECT
-Count        24871
-Vnum         21001
-Room         20072
-Condition	500000
-End
-
-#OBJECT
-Name         shod boots ivory~
-ShortDescr   pair of ivory-shod boots~
-Description  Pair of ivory-shod boots is sitting here.~
-Vnum         29009
-Material	30
-Room         20047
-Condition	250
-Size	39
-Cost         6500
-Values       10 10 0 0 0 0 -345330944
-Affect       -1 -1 10 4 0
-End
-
-#OBJECT
-Name         silver dirk of warding~
-ShortDescr   silver dirk of warding~
-Description  Silver dirk has been dropped here.~
-Vnum         29031
-Material	4
-Room         20190
-ExtraFlags   526400&4
-Condition	150
-Cost         542500
-Values       0 5 174 0 0 2 -345330944
-Affect       -1 -1 1 48 0
-End
-
-#OBJECT
-Name         necklace lead~
-ShortDescr   lead necklace~
-Description  Lead necklace was dropped here.~
-Vnum         29061
-Material	9
-Room         20047
-Condition	50
-Size	71
-Cost         101
-Values       0 0 0 0 0 0 -345330944
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         saddle iron~
-ShortDescr   iron saddle~
-Description  Iron saddle was dropped here.~
-Vnum         28917
+Name         scimitar iron~
+ShortDescr   iron scimitar~
+Vnum         29106
 Material	1
-Room         20047
-ExtraFlags   526336
-Condition	1000
-Size	65
-Cost         5002
-Values       0 0 0 0 0 0 -345330944
+Room         20190
+Condition	350
+Cost         1701
+Values       0 0 69 3 0 1 10
 Affect       -1 -1 -2 2 0
 Affect       -1 -1 5 17 0
 End
 
 #OBJECT
-Name         pair of copper anklets of distortion~
-ShortDescr   pair of copper anklets of distortion~
-Description  Copper anklet has been dropped here.~
+Name         tongue ring plastic~
+ShortDescr   plastic tongue ring~
+Vnum         29125
+Material	135
+Room         20047
+ExtraFlags   788480
+Condition	50
+Size	58
+Cost         1510
+Values       0 2 0 0 0 0 10
+End
+
+#OBJECT
+Name         buckler glass~
+ShortDescr   glass buckler~
+Description  Glass buckler is laying on the ground.~
+Vnum         29026
+Material	24
+Room         20047
+ExtraFlags   8914976
+Condition	250
+Cost         551
+Values       10 10 0 0 0 0 10
+End
+
+#OBJECT
+Name         anklet anklets stone~
+ShortDescr   pair of stone anklets~
+Description  Stone anklet has been dropped here.~
 Vnum         29021
-Material	7
+Material	23
 Room         20047
 Condition	50
-Size	50
-Cost         502001
-Values       5 5 0 0 0 0 -345330944
-Affect       -1 -1 4 29 0
+Size	60
+Cost         1001
+Values       5 5 0 0 0 0 10
+End
+
+#OBJECT
+Name         red dragon scale pouch of holding~
+ShortDescr   red dragon scale pouch of holding~
+Description  Red dragon scale pouch was dropped here.~
+Vnum         29072
+Material	11
+Room         20193
+ExtraFlags   264256
+Condition	50
+Size	44
+Cost         52300
+Values       492 0 0 0 0 0 10
+Affect       -1 -1 1 27 0
+End
+
+#OBJECT
+Name         gloves centaurhide~
+ShortDescr   pair of centaurhide gloves~
+Description  Pair of centaurhide gloves is laying here.~
+Vnum         29011
+Material	58
+Room         20102
+Condition	50
+Size	39
+Cost         40500
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 -1 2 0
+Affect       -1 -1 5 1 0
+Affect       -1 -1 5 5 0
+End
+
+#OBJECT
+Name         pistol oak~
+ShortDescr   oak pistol~
+Description  Oak pistol is lying on the ground~
+Vnum         29049
+Material	84
+Room         20191
+ExtraFlags   591938
+Condition	50
+Cost         45000
+Values       0 7 36 10 0 7 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         parachute gnomeskin~
+ShortDescr   gnomeskin parachute~
+Description  Gnomeskin parachute is folded up here.~
+Vnum         28919
+Material	55
+Room         20102
+ExtraFlags   264192&4
+Condition	500
+Size	58
+Cost         20000
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 3 0
+End
+
+#OBJECT
+Name         glass scanner of distortion~
+ShortDescr   glass scanner of distortion~
+Vnum         29115
+Material	24
+Room         20195
+ExtraFlags   526368
+Condition	400
+Cost         511050
+Values       2 0 0 0 0 0 10
 Affect       -1 -1 1 42 0
 End
 
 #OBJECT
-Name         cape velvet~
-ShortDescr   velvet cape~
-Description  Velvet cape has been left here.~
-Vnum         29052
-Material	46
-Room         20102
-Condition	50
-Size	64
-Cost         50999
-Values       5 5 0 0 0 0 -345330944
-Affect       -1 -1 50 13 0
-End
-
-#OBJECT
-Name         staff quarterstaff stone~
-ShortDescr   stone quarterstaff~
-Description  Stone staff was dropped here.~
-Vnum         29055
+Name         television stone~
+ShortDescr   stone television~
+Description  Stone television is sitting here.~
+Vnum         29168
 Material	23
-Room         20190
-Condition	500
-Cost         502
-Values       0 10 34 0 0 10 -345330944
-End
-
-#OBJECT
-Count        3
-Vnum         21001
-Room         20072
-Condition	500000
-End
-
-#OBJECT
-Name         hood seaweed~
-ShortDescr   seaweed hood~
-Description  Seaweed hood is laying here.~
-Vnum         28930
-Material	36
-Room         20102
-Condition	150
-Size	40
-Cost         1005
-Values       4 4 0 0 0 0 -345330944
-Affect       -1 -1 -1 25 0
-End
-
-#OBJECT
-Name         ribbon silk~
-ShortDescr   silk ribbon~
-Description  Silk ribbon lies on the ground.~
-Vnum         28915
-Material	6
-Room         20102
-ExtraFlags   264192
-Condition	50
-Size	51
-Cost         30100
-Values       1 1 0 0 0 0 -345330944
-Affect       -1 -1 10 2 0
-End
-
-#OBJECT
-Name         gnomeskin cap of breathing~
-ShortDescr   gnomeskin cap of breathing~
-Description  Gnomeskin cap is laying here.~
-Vnum         29053
-Material	55
-Room         20102
-Condition	50
-Size	58
-Cost         110300
-Values       4 4 0 0 0 0 -345330944
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 5 3 0
-Affect       -1 -1 -2147483648 26 0
-End
-
-#OBJECT
-Name         clay torso armor of radiance~
-ShortDescr   clay torso armor of radiance~
-Vnum         29100
-Material	45
-Room         20047
-Condition	1250
-Size	33
-Cost         511011
-Values       35 35 0 0 0 0 -345330944
-Affect       -1 -1 16 29 0
-Affect       -1 -1 1 46 0
-End
-
-#OBJECT
-Name         pants silk~
-ShortDescr   pair of silk pants~
-Description  Pair of silk pants is lying here.~
-Vnum         28910
-Material	6
-Room         20102
-Condition	150
-Size	30
-Cost         32001
-Values       0 0 0 0 0 0 -345330944
-Affect       -1 -1 10 2 0
-End
-
-#OBJECT
-Name         cart iron~
-ShortDescr   iron cart~
-Vnum         29164
-Material	1
-Room         20179
+Room         20195
 ExtraFlags   526336
-Condition	12500
-Cost         4001
-Values       0 0 1 0 0 0 -345330944
-Affect       -1 -1 -2 2 0
-Affect       -1 -1 5 17 0
+Condition	1500
+Cost         10001
+Values       5 100 0 0 0 0 10
 End
 
 #OBJECT
-Name         spaceship ship bronze~
-ShortDescr   bronze spaceship~
-Vnum         29131
-Material	22
-Room         20179
-ExtraFlags   527361&4
-Condition	50000
-Cost         300001
-Values       0 0 152 0 0 0 -345330944
-Affect       -1 -1 1 17 0
-End
-
-#OBJECT
-Name         Kakuri knife steel~
-ShortDescr   steel kakuri knife~
-Description  Some god dropped a newly created kakuri knife here.~
-Vnum         29104
-Material	20
-Room         20190
-Condition	250
-Size	65
-Cost         1520
-Values       0 0 118 3 0 2 -345330944
-Affect       -1 -1 -1 2 0
-Affect       -1 -1 10 17 0
-End
-
-#OBJECT
-Name         shuriken  plastic~
-ShortDescr   plastic shuriken~
-Description  Plastic shuriken has been dropped here~
-Vnum         28950
-Material	135
-Room         20190
-ExtraFlags   788480
-Condition	50
-Cost         501
-Values       0 0 121 0 0 0 -345330944
-End
-
-#OBJECT
-Name         clay bugle of breathing~
-ShortDescr   clay bugle of breathing~
-Description  Clay bugle was left here.~
-Vnum         28914
-Material	45
-Room         20192
-ExtraFlags   526336
-Condition	600
-Cost         103010
-Values       0 0 0 0 0 0 -345330944
-Affect       -1 -1 16 29 0
-Affect       -1 -1 -2147483648 26 0
-End
-
-#OBJECT
-Name         wand clay~
-ShortDescr   clay wand~
-Description  Clay wand was dropped here.~
-Vnum         29066
-Material	45
-Room         20191
-Condition	50
-Cost         7010
-Values       0 8 36 0 0 6 -345330944
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Count        3
-Vnum         21001
-Room         20072
-Condition	500000
-End
-
-#OBJECT
-Name         leggings wool~
-ShortDescr   pair of wool leggings~
-Description  Pair of wool leggings is lying here.~
-Vnum         29016
-Material	28
-Room         20102
-ExtraFlags   329728
-Condition	50
-Size	41
-Cost         1002
-Values       5 5 0 0 0 0 -345330944
-End
-
-#OBJECT
-Name         seaweed turban of dream~
-ShortDescr   seaweed turban of dream~
+Name         turban seaweed~
+ShortDescr   seaweed turban~
 Description  Seaweed turban was discarded here.~
 Vnum         29084
 Material	36
 Room         20102
 Condition	50
-Size	43
-Cost         501105
-Values       5 5 0 0 0 0 -345330944
+Size	59
+Cost         104
+Values       5 5 0 0 0 0 10
 Affect       -1 -1 -1 25 0
-Affect       -1 -1 1 38 0
 End
 
 #OBJECT
-Name         condom ogrehide~
-ShortDescr   ogrehide condom~
-Description  Used ogrehide condom has been discarded here.~
-Vnum         29093
-Material	53
-Room         20102
+Name         shuriken  steel~
+ShortDescr   steel shuriken~
+Description  Steel shuriken has been dropped here~
+Vnum         28950
+Material	20
+Room         20190
+ExtraFlags   526336
 Condition	50
-Size	57
-Cost         1100
-Values       10 10 0 0 0 0 -345330944
+Cost         20
+Values       0 0 159 0 0 0 10
+Affect       -1 -1 -1 2 0
+Affect       -1 -1 10 17 0
+End
+
+#OBJECT
+Name         stone rifle of fire~
+ShortDescr   stone rifle of fire~
+Description  Stone rifle is here.~
+Vnum         28938
+Material	23
+Room         20191
+ExtraFlags   17303552&4
+Condition	450
+Cost         521001
+Values       0 7 36 10 0 7 10
+Affect       -1 -1 1 32 0
+End
+
+#OBJECT
+Name         wand glass~
+ShortDescr   glass wand~
+Description  Glass wand was dropped here.~
+Vnum         29066
+Material	24
+Room         20191
+ExtraFlags   526432
+Condition	50
+Cost         7050
+Values       0 8 36 0 0 6 10
+End
+
+#OBJECT
+Name         plate mail bronze~
+ShortDescr   suit of bronze plate mail~
+Description  Suit of bronze plate mail lays on the ground.~
+Vnum         29001
+Material	22
+Room         20047
+Condition	2000
+Size	37
+Cost         10001
+Values       50 50 0 0 0 0 10
+Affect       -1 -1 1 17 0
+End
+
+#OBJECT
+Name         bracelet bracelets coral~
+ShortDescr   pair of coral bracelets~
+Description  Coral bracelet is laying here.~
+Vnum         29054
+Material	32
+Room         20047
+ExtraFlags   526336
+Condition	50
+Size	74
+Cost         7000
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 -2147483648 26 0
+End
+
+#OBJECT
+Name         laser gun bone~
+ShortDescr   bone laser gun~
+Description  Bone laser gun was dropped here.~
+Vnum         29113
+Material	41
+Room         20191
+Condition	150
+Cost         8000
+Values       0 8 36 0 0 6 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         kilt plastic~
+ShortDescr   plastic kilt~
+Description  Plastic kilt was dropped here.~
+Vnum         28901
+Material	135
+Room         20102
+ExtraFlags   788480&4
+Condition	100
+Size	58
+Cost         1500
+Values       5 5 0 0 0 0 10
+End
+
+#OBJECT
+Name         pine ship of loyalty~
+ShortDescr   pine ship of loyalty~
+Description  Pine ship has been left here.~
+Vnum         28959
+Material	87
+Room         20179
+ExtraFlags   591880
+Condition	25000
+Cost         30000
+Values       0 0 2 0 0 0 10
 Affect       -1 -1 10 1 0
 End
 
 #OBJECT
-Name         platinum rapier of sight~
-ShortDescr   platinum rapier of sight~
-Vnum         29105
-Material	47
-Room         20190
-Condition	200
-Cost         49700
-Values       0 0 197 11 0 1 -345330944
-Affect       -1 -1 10 31 0
-Affect       -1 -1 35 25 0
-End
-
-#OBJECT
-Name         bone shotgun of radiance~
-ShortDescr   bone shotgun of radiance~
-Description  Bone shotgun is here.~
-Vnum         28939
-Material	41
-Room         20191
-ExtraFlags   17303552&4
-Condition	600
-Cost         519999
-Values       0 7 36 10 0 7 -345330944
-Affect       -1 -1 10 5 0
-Affect       -1 -1 1 46 0
-End
-
-#OBJECT
-Name         tin chest of levitation~
-ShortDescr   tin chest of levitation~
-Description  Tin chest is sitting here.~
-Vnum         29074
-Material	21
-Room         20193
-ExtraFlags   527360&4
-Condition	2500
-Size	65
-Cost         11002
-Values       500 1 0 0 0 0 -345330944
-End
-
-#OBJECT
-Name         wool shirt of dream~
-ShortDescr   wool shirt of dream~
-Description  Wool shirt was dropped on the floor.~
-Vnum         28911
-Material	28
-Room         20102
-ExtraFlags   329728
-Condition	50
-Size	55
-Cost         501101
-Values       5 5 0 0 0 0 -345330944
-Affect       -1 -1 1 38 0
-End
-
-#OBJECT
-Name         gold halberd of faerie slaying~
-ShortDescr   gold halberd of faerie slaying~
-Description  Gold halberd is laying here.~
-Vnum         29042
-Material	8
-Room         20190
-ExtraFlags   17303616
-Condition	1150
-Cost         19999
-Values       8 10 284 0 0 11 863
-Affect       -1 -1 10 25 0
-End
-
-#OBJECT
-Name         tank glass~
-ShortDescr   glass tank~
-Vnum         29133
-Material	24
-Room         20179
-ExtraFlags   526368
-Condition	50000
-Cost         300050
-Values       0 0 833 0 0 0 -345330944
-End
-
-#OBJECT
-Name         diaper leather~
-ShortDescr   leather diaper~
-Description  Leather diaper is lying here.~
-Vnum         28929
-Material	2
-Room         20102
-Condition	50
-Cost         501
-End
-
-#OBJECT
-Name         gun shotgun steel~
-ShortDescr   steel shotgun~
-Description  Steel shotgun is here.~
-Vnum         28939
-Material	20
-Room         20191
-ExtraFlags   17303552&4
-Condition	600
-Cost         18019
-Values       0 7 36 10 0 7 -345330944
-Affect       -1 -1 -1 2 0
-Affect       -1 -1 10 17 0
-End
-
-#OBJECT
-Name         mace glass~
-ShortDescr   glass mace~
-Description  Glass mace is laying here.~
-Vnum         29036
-Material	24
-Room         20190
-ExtraFlags   526368
-Condition	200
-Cost         1050
-Values       0 5 274 0 0 5 -345330944
-End
-
-#OBJECT
-Name         pair of clay rings of stealth~
-ShortDescr   pair of clay rings of stealth~
-Description  Clay ring is lying here.~
-Vnum         29002
-Material	45
-Room         20047
-Condition	50
-Size	59
-Cost         110
-Values       1 1 0 0 0 0 -345330944
-Affect       -1 -1 16 29 0
-Affect       -1 -1 32768 26 0
-End
-
-#OBJECT
-Name         %s spade steel~
-ShortDescr   steel spade~
-Description  Steel spade has been left here.~
-Vnum         29098
-Material	20
-Room         20182
-Condition	150
-Cost         69
-End
-
-#OBJECT
-Name         seaweed scarf of endurance~
-ShortDescr   seaweed scarf of endurance~
-Description  Seaweed scarf is here.~
-Vnum         29139
-Material	36
-Room         20102
-ExtraFlags   264192
-Condition	50
-Size	60
-Cost         16015
-Values       0 0 0 0 0 0 -345330944
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 16 31 0
-End
-
-#OBJECT
-Name         stockings seaweed~
-ShortDescr   some seaweed stockings~
-Vnum         29120
-Material	36
-Room         20102
-ExtraFlags   264192
-Condition	50
-Size	55
-Cost         1104
-Values       0 2 0 0 0 0 -345330944
-Affect       -1 -1 -1 25 0
-End
-
-#OBJECT
-Name         laser gun steel~
-ShortDescr   steel laser gun~
-Description  Steel laser gun was dropped here.~
-Vnum         29113
-Material	20
-Room         20191
-Condition	150
-Cost         7020
-Values       0 8 36 0 0 6 -345330944
-Affect       -1 -1 -1 2 0
-Affect       -1 -1 10 17 0
-End
-
-#OBJECT
-Name         bagpipes leather~
-ShortDescr   some leather bagpipes~
-Description  Some leather bagpipes lie here.~
-Vnum         28927
-Material	2
-Room         20192
-Condition	250
-Cost         2002
-Values       0 0 0 0 0 0 -345330944
-End
-
-#OBJECT
-Name         pair of stone earrings of damage~
-ShortDescr   pair of stone earrings of damage~
-Description  Pair of stone earrings have been dropped here.~
-Vnum         29060
-Material	23
-Room         20047
-Condition	50
-Size	73
-Cost         5101
-Values       0 0 0 0 0 0 -345330944
-Affect       -1 -1 5 19 0
-End
-
-#OBJECT
-Name         seaweed trenchcoat of vigor~
-ShortDescr   seaweed trenchcoat of vigor~
-Vnum         28953
-Material	36
-Room         20102
-Condition	500
-Size	36
-Cost         5005
-Values       10 10 0 0 0 0 -345330944
-Affect       -1 -1 -1 25 0
-Affect       -1 -1 4 5 0
-End
-
-#OBJECT
-Name         coral submarine of durability~
-ShortDescr   coral submarine of durability~
-Vnum         29128
-Material	32
-Room         20179
-ExtraFlags   526400
-Condition	50000
-Cost         191000
-Values       900 0 134 0 0 0 -345330944
-Affect       -1 -1 -2147483648 26 0
-End
-
-#OBJECT
-Name         falchion stone~
-ShortDescr   stone falchion~
-Description  Stone falchions is sitting on the ground here.~
-Vnum         29122
-Material	23
-Room         20190
-ExtraFlags   17303552
-Condition	1000
-Cost         1001
-Values       0 0 39 0 0 1 -345330944
-End
-
-#OBJECT
-Name         greathelm helm clay~
-ShortDescr   clay greathelm~
-Description  Clay greathelm sits here.~
-Vnum         29005
-Material	45
-Room         20047
-Condition	150
-Size	74
-Cost         2010
-Values       10 10 0 0 0 0 -345330944
-Affect       -1 -1 16 29 0
-End
-
-#OBJECT
-Name         gag seaweed~
-ShortDescr   seaweed gag~
-Vnum         28940
-Material	36
-Room         20102
-ExtraFlags   264192
-Condition	50
-Size	51
-Cost         5
-Values       0 0 0 0 0 0 -345330944
-Affect       -1 -1 -1 25 0
-End
-
-#OBJECT
-Name         silk kimono of time~
-ShortDescr   silk kimono of time~
-Description  Silk kimono is laying here.~
-Vnum         29107
-Material	6
-Room         20102
-Condition	100
-Size	63
-Cost         531500
-Values       6 6 0 0 0 0 -345330944
-Affect       -1 -1 10 2 0
-Affect       -1 -1 1 43 0
-End
-
-#OBJECT
-Name         tent wool~
-ShortDescr   wool tent~
-Vnum         29138
-Material	28
-Room         20179
-ExtraFlags   329728
-Condition	2000
-Cost         2001
-End
-
-#OBJECT
-Name         orcskin belt of thievery~
-ShortDescr   orcskin belt of thievery~
-Description  Orcskin belt is lying on the ground.~
-Vnum         29007
+Name         sandals orcskin~
+ShortDescr   pair of orcskin sandals~
+Description  Pair of orcskin sandals lie here.~
+Vnum         28931
 Material	54
 Room         20102
 Condition	50
-Size	80
-Cost         16500
-Values       5 5 0 0 0 0 -345330944
+Size	68
+Cost         1000
+Values       5 5 0 0 0 0 10
 Affect       -1 -1 -1 25 0
 Affect       -1 -1 5 5 0
-Affect       -1 -1 14 25 0
-Affect       -1 -1 15 2 0
 End
 
 #OBJECT
-Name         silk cap of the dragon~
-ShortDescr   silk cap of the dragon~
-Description  Silk cap is laying here.~
-Vnum         29053
-Material	6
-Room         20102
+Vnum         20001
+Room         20037
+ExtraFlags   8192
 Condition	50
-Size	59
-Cost         68301
-Values       4 4 0 0 0 0 -345330944
-Affect       -1 -1 10 2 0
-Affect       -1 -1 9 5 0&64
-Affect       -1 -1 38 1 0
+Cost         0
+Values       2 28 19 -1 -1 -1 10
+Spell 1      'refresh'
+Spell 2      'hyperactivity'
 End
 
 #OBJECT
-Name         copper torc of levitation~
-ShortDescr   copper torc of levitation~
-Description  Copper talisman was dropped here.~
-Vnum         29110
-Material	7
-Room         20047
-Condition	400
-Size	37
-Cost         8001
-Values       15 15 0 0 0 0 -345330944
-Affect       -1 -1 4 29 0
-Affect       -1 -1 524288 26 0
+Name         silver lamp of storms~
+ShortDescr   silver lamp of storms~
+Description  Silver lamp is sitting here.~
+Vnum         29150
+Material	4
+Room         20050
+ExtraFlags   526401
+Condition	150
+Cost         543001
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 1 34 0
 End
 
 #OBJECT
-Name         television clay~
-ShortDescr   clay television~
-Description  Clay television is sitting here.~
-Vnum         29168
+ObjBy	Admin~
+Vnum         37
+Room         20027
+Condition	100
+Values       15 15 0 0 0 0 10
+End
+
+#OBJECT
+Name         clay boat of loyalty~
+ShortDescr   clay boat of loyalty~
+Description  Clay boat has been abandoned here.~
+Vnum         29067
 Material	45
-Room         20195
-ExtraFlags   526336
-Condition	1500
+Room         20179
+ExtraFlags   526344
+Condition	5000
 Cost         10010
-Values       5 100 0 0 0 0 -345330944
+Values       0 0 2 0 0 0 10
 Affect       -1 -1 16 29 0
 End
 
 #OBJECT
-Name         shod boots plastic~
-ShortDescr   pair of plastic-shod boots~
-Description  Pair of plastic-shod boots is sitting here.~
-Vnum         29009
-Material	135
-Room         20047
-ExtraFlags   788480
-Condition	250
-Size	37
-Cost         3000
-Values       10 10 0 0 0 0 -345330944
+Name         scanner tin~
+ShortDescr   tin scanner~
+Vnum         29115
+Material	21
+Room         20195
+ExtraFlags   526336
+Condition	400
+Cost         10002
+Values       2 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         armlet armlets silver~
-ShortDescr   pair of silver armlets~
-Description  A pair of silver armlets lies here.~
-Vnum         29121
+Name         silk trenchcoat of nightvision~
+ShortDescr   silk trenchcoat of nightvision~
+Vnum         28953
+Material	6
+Room         20102
+Condition	500
+Size	56
+Cost         31001
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 10 2 0
+Affect       -1 -1 512 26 0
+End
+
+#OBJECT
+Name         large silver shield of mana~
+ShortDescr   large silver shield of mana~
+Description  Large silver shield has been left here.~
+Vnum         29028
 Material	4
 Room         20047
-ExtraFlags   526400
-Condition	200
-Size	67
-Cost         42100
-Values       5 10 0 0 0 0 -345330944
+ExtraFlags   8915008
+Condition	750
+Cost         77001
+Values       30 30 0 0 0 0 10
+Affect       -1 -1 35 3 0
 End
 
 #OBJECT
-Name         mrrshan fur kilt of breathing~
-ShortDescr   mrrshan fur kilt of breathing~
-Description  Mrrshan fur kilt was dropped here.~
-Vnum         28901
-Material	68
-Room         20102
-Condition	100
-Size	59
-Cost         116000
-Values       5 5 0 0 0 0 -345330944
-Affect       -1 -1 10 25 0
-Affect       -1 -1 -2147483648 26 0
-End
-
-#OBJECT
-Name         stone visor of earth~
-ShortDescr   stone visor of earth~
-Description  Stone visor has been dropped here.~
-Vnum         29025
-Material	23
-Room         20047
+Name         wand crystal~
+ShortDescr   crystal wand~
+Description  Crystal wand was dropped here.~
+Vnum         29066
+Material	25
+Room         20191
 Condition	50
-Size	73
-Cost         502001
-Values       5 5 0 0 0 0 -345330944
-Affect       -1 -1 1 33 0
+Cost         47000
+Values       0 8 36 0 0 6 10
+Affect       -1 -1 10 3 0
 End
 
 #OBJECT
-Name         copper girth of the snake~
-ShortDescr   copper girth of the snake~
-Description  Copper girth is laying on the ground.~
-Vnum         29010
+Name         copper dagger of undead slaying~
+ShortDescr   copper dagger of undead slaying~
+Description  Copper dagger has been dropped here.~
+Vnum         29030
 Material	7
-Room         20047
-Condition	250
-Size	47
-Cost         9002
-Values       10 10 0 0 0 0 -345330944
+Room         20190
+ExtraFlags   526400&4
+Condition	100
+Cost         1001
+Values       1 4 103 0 0 2 456
 Affect       -1 -1 4 29 0
-Affect       -1 -1 7 2 0
+End
+
+#OBJECT
+Name         willow raft of darkness~
+ShortDescr   willow raft of darkness~
+Description  Willow raft is sitting here.~
+Vnum         29165
+Material	85
+Room         20179
+ExtraFlags   591876
+Condition	2000
+Cost         35000
+Values       0 0 2 0 0 0 10
+Affect       -1 -1 10 2 0
 End
 
 #OBJECT
 Vnum         20007
 Room         20000
 Condition	500000
-Values       1000000 0 0 0 0 0 0
+Values       1000000 0 0 0 0 0 10
 End
 
 #OBJECT
-Name         Kakuri knife bronze~
-ShortDescr   bronze kakuri knife~
-Description  Some god dropped a newly created kakuri knife here.~
-Vnum         29104
-Material	22
+Name         pair of velvet leggings of seeking~
+ShortDescr   pair of velvet leggings of seeking~
+Description  Pair of velvet leggings is lying here.~
+Vnum         29016
+Material	46
+Room         20102
+Condition	50
+Size	60
+Cost         552001
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 50 13 0
+Affect       -1 -1 1 47 0
+End
+
+#OBJECT
+Name         stone trident of faerie slaying~
+ShortDescr   stone trident of faerie slaying~
+Description  Three-pronged stone spear was dropped here.~
+Vnum         29091
+Material	23
 Room         20190
-Condition	250
-Size	75
-Cost         1501
-Values       0 0 234 3 0 2 -345330944
-Affect       -1 -1 1 17 0
+ExtraFlags   526400
+Condition	500
+Cost         10001
+Values       8 9 135 0 0 12 921
 End
 
 #OBJECT
-Name         pair of leather socks of darkness~
-ShortDescr   pair of leather socks of darkness~
-Description  Pair of leather socks lays on the ground.~
-Vnum         29017
+Name         copper hovercraft of darkness~
+ShortDescr   copper hovercraft of darkness~
+Vnum         29132
+Material	7
+Room         20179
+ExtraFlags   527364
+Condition	10000
+Cost         200001
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 4 29 0
+End
+
+#OBJECT
+Name         ivory hovercraft of light~
+ShortDescr   ivory hovercraft of light~
+Vnum         29132
+Material	30
+Room         20179
+ExtraFlags   527361
+Condition	10000
+Cost         204000
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 10 4 0
+End
+
+#OBJECT
+Name         clay buckler of agility~
+ShortDescr   clay buckler of agility~
+Description  Clay buckler is laying on the ground.~
+Vnum         29026
+Material	45
+Room         20047
+Condition	250
+Cost         7511
+Values       10 10 0 0 0 0 10
+Affect       -1 -1 16 29 0
+Affect       -1 -1 7 2 0
+End
+
+#OBJECT
+Name         cape harpy feather~
+ShortDescr   harpy feather cape~
+Description  Harpy feather cape has been left here.~
+Vnum         29052
+Material	67
+Room         20102
+Condition	50
+Size	61
+Cost         1099
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 2 0
+End
+
+#OBJECT
+Name         fur cap of doom~
+ShortDescr   fur cap of doom~
+Description  Fur cap is laying here.~
+Vnum         29053
+Material	43
+Room         20102
+ExtraFlags   329728
+Condition	50
+Size	41
+Cost         2301
+Values       4 4 0 0 0 0 10
+Affect       -1 -1 1024 26 0
+End
+
+#OBJECT
+Name         panties orcskin~
+ShortDescr   pair of orcskin panties~
+Description  Pair of orcskin panties is laying on the floor.~
+Vnum         28902
+Material	54
+Room         20102
+Condition	50
+Size	44
+Cost         1500
+Values       5 5 0 0 0 0 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 5 0
+End
+
+#OBJECT
+Name         bone airplane of darkness~
+ShortDescr   bone airplane of darkness~
+Vnum         29130
+Material	41
+Room         20179
+ExtraFlags   527364
+Condition	10000
+Cost         201000
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         wool skirt of will named Idudhata~
+ShortDescr   wool skirt of will named Idudhata~
+Description  Wool skirt was dropped here.~
+Vnum         28903
+Material	28
+Room         20102
+ExtraFlags   329728&2
+Condition	150
+Size	72
+Cost         40001
+Values       0 0 0 0 0 0 10
+Affect       -1 -1 38 4 0
+End
+
+#OBJECT
+Name         rifle iron~
+ShortDescr   iron rifle~
+Description  Iron rifle is here.~
+Vnum         28938
+Material	1
+Room         20191
+ExtraFlags   17303552&4
+Condition	450
+Cost         20001
+Values       0 7 36 10 0 7 10
+Affect       -1 -1 -2 2 0
+Affect       -1 -1 5 17 0
+End
+
+#OBJECT
+Name         wagon plastic~
+ShortDescr   plastic wagon~
+Vnum         29137
+Material	135
+Room         20179
+ExtraFlags   788480
+Condition	10000
+Cost         5499
+Values       0 0 1 0 0 0 10
+End
+
+#OBJECT
+Name         bone chest of light~
+ShortDescr   bone chest of light~
+Description  Bone chest is sitting here.~
+Vnum         29074
+Material	41
+Room         20193
+ExtraFlags   526337&4
+Condition	2500
+Size	34
+Cost         11999
+Values       500 1 0 0 0 0 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         willow trident of undead slaying~
+ShortDescr   willow trident of undead slaying~
+Description  Three-pronged willow spear was dropped here.~
+Vnum         29091
+Material	85
+Room         20190
+ExtraFlags   591936
+Condition	500
+Cost         42999
+Values       1 9 224 0 0 12 417
+Affect       -1 -1 10 2 0
+End
+
+#OBJECT
+Name         lute stone~
+ShortDescr   stone lute~
+Description  Stone lute was left here.~
+Vnum         28907
+Material	23
+Room         20192
+Condition	400
+Cost         1002
+Values       0 0 0 0 0 0 10
+End
+
+#OBJECT
+Name         tunic fur~
+ShortDescr   fur tunic~
+Description  Fur shirt was dropped on the floor.~
+Vnum         29109
+Material	43
+Room         20102
+ExtraFlags   329728
+Condition	100
+Size	38
+Cost         2101
+Values       5 5 0 0 0 0 10
+End
+
+#OBJECT
+Name         scanner copper~
+ShortDescr   copper scanner~
+Vnum         29115
+Material	7
+Room         20195
+ExtraFlags   526336
+Condition	400
+Cost         10001
+Values       2 0 0 0 0 0 10
+Affect       -1 -1 4 29 0
+End
+
+#OBJECT
+Name         cap leather~
+ShortDescr   leather cap~
+Description  Leather cap is laying here.~
+Vnum         29053
 Material	2
 Room         20102
-ExtraFlags   264196
 Condition	50
-Size	67
-Cost         21201
-Values       5 5 0 0 0 0 -345330944
-Affect       -1 -1 21 19 0&512
+Size	69
+Cost         301
+Values       4 4 0 0 0 0 10
+End
+
+#OBJECT
+Name         tunic leaf~
+ShortDescr   leaf tunic~
+Description  Leaf shirt was dropped on the floor.~
+Vnum         29109
+Material	3
+Room         20102
+ExtraFlags   329728
+Condition	100
+Size	65
+Cost         101
+Values       5 5 0 0 0 0 10
 End
 
 #END

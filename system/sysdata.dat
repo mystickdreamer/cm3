@@ -1,13 +1,13 @@
 #SYSTEM
-MudName	     Ar'Oan Lost Dragons~
-Highplayers    5
-Highplayertime Sat Aug 17 17:48:49 2013~
+MudName	     CalareyMUD 3.0~
+Highplayers    2
+Highplayertime Thu Aug  1 20:30:23 2013~
 Nameresolving  1
 Saveflags      12285
 Savefreq       1
 PetSave	     1
 IdentTries     0
-Crashguard	1
+Crashguard	0
 MultiLimit	3
 Expbase		50
 Quest		0

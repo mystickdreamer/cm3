@@ -1,0 +1,129 @@
+#PLAYER
+Version      5
+Name         Remcon~
+Sex          1
+Race         0
+Permissions	0
+Points		300
+Played       637
+Room         20000
+Memorized		20000 0 0 0 0 0 0 0
+HpManaMove   3220 3220 2200 2200 2500 2500
+Gold         2000
+Bank         0
+Exp          100000
+Height          62
+Weight          140
+Act          -1577056694
+Position     112
+SavingThrows 0 0 0 0 0
+Hitroll      0
+Damroll      0
+Armor        0
+Mentalstate  0
+Password     åðòx’÷'yWtéXé~
+Title        Remcon~
+WizInvis     0
+Flags        557056
+PKills       0
+PDeaths      0
+RKills	   0
+RDeaths	   0
+MKills       0
+MDeaths      0
+AttrPerm     100 100 100 100 100 100 100
+AttrMod      0 0 0 0 0 0 0
+Weapons	0 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0
+WeaponExp	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+TalentExp	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Noncombat	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NoncombatExp	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Condition    0 69 69 0
+Site         127.0.0.1
+Species	wild man~
+Type	living~
+Generation	1
+Age	18
+Shield	0
+Speed	100
+Inborn	-1
+Channels	~
+Eyes	hazel~
+Hair	black~
+Skin_color	dark~
+Skin_type	skin~
+i3perm       0
+i3flags      256
+IMCPerm      0
+IMCFlags     256
+End
+
+#OBJECT
+Name         long bow fur humancrafted~
+ShortDescr   humancrafted fur long bow~
+Description  Fur long bow has been left here.~
+Vnum         29047
+Material	43
+ExtraFlags   851968
+Condition	250
+Cost         11000
+Values       0 15 100 5 0 8 10
+End
+
+#OBJECT
+Name         greaves bone humancrafted~
+ShortDescr   set of humancrafted bone greaves~
+Description  Set of bone greaves has been left here.~
+Vnum         29018
+Material	41
+WearLoc      12
+Condition	250
+Size	62
+Cost         4000
+Values       10 10 100 0 0 0 10
+Affect       -1 -1 10 5 0
+End
+
+#OBJECT
+Name         boots wool humancrafted~
+ShortDescr   pair of humancrafted wool boots~
+Description  Pair of wool boots is sitting here.~
+Vnum         29008
+Material	28
+ExtraFlags   327680
+WearLoc      14
+Condition	150
+Size	62
+Cost         501
+Values       5 5 100 0 0 0 10
+End
+
+#OBJECT
+Name         shirt trollhide humancrafted~
+ShortDescr   humancrafted trollhide shirt~
+Description  Trollhide shirt was dropped on the floor.~
+Vnum         28911
+Material	69
+WearLoc      3
+Condition	50
+Size	62
+Cost         300
+Values       5 5 100 0 0 0 10
+Affect       -1 -1 -1 25 0
+Affect       -1 -1 5 1 0
+Affect       -1 -1 5 5 0
+End
+
+#OBJECT
+Name         bag wool humancrafted~
+ShortDescr   humancrafted wool bag~
+Description  Wool bag is laying on the ground.~
+Vnum         29073
+Material	28
+ExtraFlags   329728
+Condition	250
+Cost         201
+Values       100 0 100 0 0 0 10
+End
+
+#END
