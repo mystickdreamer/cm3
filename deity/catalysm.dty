@@ -1,14 +1,11 @@
 #DEITY
-Index			16
+Index			17
 Filename		catalysm.dty~
 Name		Catalysm~
 Description	~
 Message		Pure energy crackles in~
 Cost		3
-Count		311
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		51
 End
 
 #END

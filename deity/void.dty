@@ -1,14 +1,11 @@
 #DEITY
-Index			17
+Index			18
 Filename		void.dty~
 Name		Void~
 Description	~
 Message		Reality seems to warp in~
 Cost		5
-Count		102
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		2
 End
 
 #END

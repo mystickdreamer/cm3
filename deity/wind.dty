@@ -10,10 +10,7 @@ Description	&z&gAlignment: &Glawful
 ~
 Message		A gust of wind blows into~
 Cost		2
-Count		165
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		65
 End
 
 #END

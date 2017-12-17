@@ -11,10 +11,7 @@ Description	&z&gAlignment:&G evil
 ~
 Message		Searing flames roar in~
 Cost		2
-Count		123
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		2
 End
 
 #END

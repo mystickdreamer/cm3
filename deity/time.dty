@@ -11,10 +11,7 @@ Description	&z&gAlignment: &Gneutral
 ~
 Message		Time seems to halt for a moment in~
 Cost		4
-Count		101
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		1
 End
 
 #END

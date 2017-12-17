@@ -10,10 +10,7 @@ Description	&z&gAlignment: &Gchaotic
 ~
 Message		A gust of frigid wind blows snowflakes into~
 Cost		2
-Count		101
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		1
 End
 
 #END

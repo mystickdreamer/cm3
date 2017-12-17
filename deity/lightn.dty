@@ -11,10 +11,7 @@ Description	&gAlignment: &Gchaotic
 ~
 Message		A bolt of lightning strikes~
 Cost		2
-Count		180
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		80
 End
 
 #END

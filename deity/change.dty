@@ -11,10 +11,7 @@ Description	&z&gAlignment: &Gneutral
 ~
 Message		The walls seem to warp in~
 Cost		3
-Count		155
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		12
 End
 
 #END

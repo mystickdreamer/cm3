@@ -11,10 +11,7 @@ Description	&gAlignment:&G neutral
 ~
 Message		With a thought of~
 Cost		2
-Count		150
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		15
 End
 
 #END

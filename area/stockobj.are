@@ -2095,52 +2095,6 @@ television~
 0
 5 100 0 0
 30 10000 0
-
-#29200
-small fireshard~
-small &rFireShard &w~
-A small &rFireShard&w is laying here.~
-~
-8 2097216 0
-0
-0 0 0 0
-1 0 0
-#29201
-small watershard~
-small &bWaterShard &w~
-A small &bWaterShard&w is laying here.~
-~
-8 2097216 0
-0
-0 0 0 0
-1 0 0
-#29202
-small airshard~
-small &YAirShard &w~
-A small &YAirShard&w is laying here.~
-~
-8 2097216 0
-0
-0 0 0 0
-1 0 0
-#29203
-small earthshard~
-small &gEarthShard &w~
-A small &gEarthShard&w is laying here.~
-~
-8 2097216 0
-0
-0 0 0 0
-1 0 0
-#29204
-small soulshard~
-small &pSoulShard &w~
-A small &pSoulShard&w is laying here.~
-~
-8 2097216 0
-0
-0 0 0 0
-1 0 0
 #29999
 raw %s material ore~
 a lump of ore~
@@ -2159,9 +2113,13 @@ Floating in a void~
 ~
 0 1073741828 1
 0 0 0 0 0 0 0 0
-R O 0 21013 1 29000
 S
 #0
+
+
+#RESETS
+O 1 21013 1 29000
+S
 
 
 #SHOPS

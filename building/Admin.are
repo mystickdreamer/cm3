@@ -1,0 +1,87 @@
+#AREA   {PROTO} Admin's area in progress~
+
+
+
+#VERSION 1
+#AUTHOR Admin~
+
+#RANGES
+0 0 0 0
+$
+
+#RESETMSG Void~
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2 0
+
+#MOBILES
+#30000
+first mobile~
+a newly created first mobile~
+~
+1073741825 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+112 100 0
+#31000
+last mobile~
+a newly created last mobile~
+~
+1073741825 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+112 100 0
+#0
+
+
+#OBJECTS
+#30000
+first object~
+a newly created first object~
+Some god dropped a newly created first object here.~
+~
+13 1073741824 0
+0
+0 0 0 0
+1 0 0
+#31000
+last object~
+a newly created last object~
+Some god dropped a newly created last object here.~
+~
+13 1073741824 0
+0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#30000
+first room~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+S
+#31000
+last room~
+~
+0 1073741824 1
+0 0 0 0 0 0 0 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+
+#$

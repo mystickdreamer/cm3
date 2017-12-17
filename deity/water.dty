@@ -9,10 +9,7 @@ Description	&z&gAlignment: &Glawful
 ~
 Message		A foaming wave crashes into~
 Cost		2
-Count		231
-Archmage		(null)~
-ArchLvl		0
-Color		(null)~
+Count		50
 End
 
 #END
