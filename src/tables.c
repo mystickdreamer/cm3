@@ -763,8 +763,8 @@ DO_FUN *skill_function( char *name )
             return do_permit;
          if( !str_cmp( name, "do_pick" ) )
             return do_pick;
-//         if( !str_cmp( name, "do_piss" ) )
-//            return do_piss;
+         if( !str_cmp( name, "do_piss" ) )
+            return do_piss;
          if( !str_cmp( name, "do_pound" ) )
             return do_pound;
          if( !str_cmp( name, "do_poisoncloud" ) )
@@ -1860,8 +1860,8 @@ char *skill_name( DO_FUN * skill )
       return "do_permit";
    if( skill == do_pick )
       return "do_pick";
-//   if( skill == do_piss )
-//      return "do_piss";
+   if( skill == do_piss )
+      return "do_piss";
    if( skill == do_pound )
       return "do_pound";
    if( skill == do_poisoncloud )

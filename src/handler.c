@@ -3111,14 +3111,11 @@ bool can_see( CHAR_DATA * ch, CHAR_DATA * victim )
    /*
     * SB 
     */
-    
-   if( !IS_NPC( ch ) && xIS_SET( ch->act, PLR_HOLYLIGHT ) )
-      return TRUE;
-    
-    
-   if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_MOBINVIS ) ) //&& TALENT( ch, TAL_SEEKING ) < victim->mobinvis )
+   if( IS_NPC( victim ) && xIS_SET( victim->act, ACT_MOBINVIS ) && TALENT( ch, TAL_SEEKING ) < victim->mobinvis )
       return FALSE;
 
+   if( !IS_NPC( ch ) && xIS_SET( ch->act, PLR_HOLYLIGHT ) )
+      return TRUE;
 
    /*
     * The miracle cure for blindness? -- Altrag 
